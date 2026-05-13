@@ -1,0 +1,78 @@
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  Controlador.IA News — Publicação Automática de Newsletter
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#
+#  Executa toda segunda-feira às 09:00 UTC ou manualmente.
+#  1. Checkout do repositório
+#  2. Roda o script Python para gerar nova edição
+#  3. Commit + Push das mudanças
+#  4. Deploy para GitHub Pages
+#
+name: Publicação Automática Newsletter
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'   # Segunda-feira 09:00 UTC
+  workflow_dispatch:       # Botão "Run workflow" no GitHub
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      # ── 2. Python ────────────────────────────────────────
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # ── 3. Gerar newsletter ──────────────────────────────
+      - name: Gerar nova edição da newsletter
+        run: python scripts/generate_news.py
+
+      # ── 4. Commit e Push ─────────────────────────────────
+      - name: Commit e push das mudanças
+        run: |
+          git config --global user.name "ControladorIA Bot"
+          git config --global user.email "bot@controlador-ia.news"
+          git add news/ data/editions.json
+          if git diff --staged --quiet; then
+            echo "Sem mudanças para commitar."
+          else
+            git commit -m "🧠 Nova edição Controlador.IA News gerada automaticamente"
+            git push
+          fi
+
+      # ── 5. Configurar GitHub Pages ───────────────────────
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      # ── 6. Upload apenas dos arquivos públicos ───────────
+      - name: Upload do site (sem scripts internos)
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+          # Nota: .gitignore e .github são ignorados automaticamente.
+          # O scripts/ e data/ são pequenos e não afetam o site.
+
+      # ── 7. Deploy ────────────────────────────────────────
+      - name: Deploy para GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

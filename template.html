@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <!-- Meta Básico -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- SEO -->
+    <title>{{TITLE}} | Controlador.IA News</title>
+    <meta name="description" content="{{SUMMARY}}">
+    <meta name="author" content="Controlador.IA News">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{TITLE}} | Controlador.IA News">
+    <meta property="og:description" content="{{SUMMARY}}">
+    <meta property="og:site_name" content="Controlador.IA News">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{TITLE}} | Controlador.IA News">
+    <meta name="twitter:description" content="{{SUMMARY}}">
+
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700;800&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+    <!-- ═══ Header ═══ -->
+    <header class="site-header edition-header" id="site-header">
+        <div class="container">
+            <a href="../index.html">
+                <div class="site-logo"><span class="logo-brand">Controlador.IA</span><span class="logo-news">News</span></div>
+            </a>
+            <div class="edition-meta">
+                <span class="edition-badge">Edição #{{ID}}</span>
+                <span class="edition-date-header">{{DATE}}</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- ═══ Navegação ═══ -->
+    <nav class="back-nav">
+        <div class="container">
+            <a href="../index.html">← Voltar ao acervo de edições</a>
+        </div>
+    </nav>
+
+    <!-- ═══ Conteúdo Principal ═══ -->
+    <main class="container container--narrow">
+
+        <!-- Hero — Destaque da Semana -->
+        <article class="hero" id="hero-section">
+            <span class="category-tag category-tag--default">✦ Destaque da Semana</span>
+            <h2>{{HERO_TITLE}}</h2>
+            <p>{{HERO_CONTENT}}</p>
+        </article>
+
+        <!-- Top News da Semana -->
+        <section class="news-grid" id="news-section">
+            <h3 class="section-title">Top News da Semana</h3>
+            {{NEWS_ITEMS}}
+        </section>
+
+        <!-- Tendências da Semana -->
+        <section class="trends-section" id="trends-section">
+            <h3 class="section-title">Tendências da Semana</h3>
+            <div class="trends-grid">
+                {{TRENDS_ITEMS}}
+            </div>
+        </section>
+
+        <!-- Ferramentas em Alta -->
+        <section class="tools-section" id="tools-section">
+            <h3 class="section-title">Ferramentas em Alta</h3>
+            <div class="tools-grid">
+                {{TOOLS_ITEMS}}
+            </div>
+        </section>
+
+        <!-- Vídeos Recomendados -->
+        <section class="videos-section" id="videos-section">
+            <h3 class="section-title">Cursos & Vídeos Recomendados</h3>
+            <div class="videos-grid">
+                {{VIDEOS_ITEMS}}
+            </div>
+        </section>
+
+        <!-- Insights Financeiros & Controladoria -->
+        <section class="special-section" id="insights-section">
+            <h3>Insights de Finanças & Controladoria</h3>
+            {{FINANCIAL_INSIGHTS}}
+        </section>
+
+    </main>
+
+    <!-- ═══ Footer ═══ -->
+    <footer class="site-footer" id="site-footer">
+        <div class="container">
+            <div class="footer-brand">Controlador.IA News</div>
+            <p class="footer-desc">Curadoria semanal automatizada de IA, Controladoria, Finanças e Automação.</p>
+            <div class="footer-links">
+                <a href="../index.html">Início</a>
+                <a href="../index.html#editions-section">Acervo</a>
+            </div>
+            <p class="footer-copy">&copy; 2026 Controlador.IA News. Edição #{{ID}}.</p>
+        </div>
+    </footer>
+
+</body>
+</html>

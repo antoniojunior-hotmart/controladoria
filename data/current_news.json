@@ -1,0 +1,127 @@
+{
+    "id": "01",
+    "date": "07 de Maio, 2026",
+    "slug": "2026-05-07",
+    "title": "A Nova Era da Controladoria Inteligente",
+    "summary": "Agentes de IA revolucionam o fechamento contábil e a análise financeira. Novas ferramentas de automação de dados e blockchain ganham tração no mercado.",
+    "hero_title": "Agentes de IA estão substituindo analistas de dados em tarefas repetitivas",
+    "hero_content": "A integração de modelos avançados diretamente nos fluxos de dados corporativos está permitindo que equipes de finanças e controladoria foquem em estratégia e tomada de decisão, reduzindo o tempo de fechamento contábil em até 40%. Empresas líderes do setor já relatam ganhos expressivos de produtividade.",
+    "news": [
+        {
+            "cat": "Tecnologia",
+            "title": "Novo framework open-source para automação de dados lançado no GitHub",
+            "desc": "Desenvolvedores open-source criaram uma ferramenta capaz de tratar terabytes de dados sem necessidade de infraestrutura pesada, prometendo democratizar o acesso a Big Data.",
+            "source_name": "GitHub Blog",
+            "source_url": "https://github.blog"
+        },
+        {
+            "cat": "Finanças",
+            "title": "Bancos aceleram adoção de Blockchain para conciliação bancária",
+            "desc": "A necessidade de auditoria instantânea e transparência está forçando grandes instituições financeiras a abandonarem sistemas legados em favor de soluções baseadas em DLT.",
+            "source_name": "Bloomberg",
+            "source_url": "https://bloomberg.com"
+        },
+        {
+            "cat": "IA",
+            "title": "GPT-5 redefine benchmarks de raciocínio lógico e análise financeira",
+            "desc": "O novo modelo da OpenAI demonstra capacidade inédita de interpretar balanços patrimoniais e gerar relatórios gerenciais automatizados com precisão superior a 95%.",
+            "source_name": "OpenAI Blog",
+            "source_url": "https://openai.com/blog"
+        },
+        {
+            "cat": "Automação",
+            "title": "RPA 2.0: A nova geração de automação inteligente chega ao mercado",
+            "desc": "Plataformas de automação estão incorporando modelos de linguagem para criar fluxos de trabalho que se adaptam a exceções sem intervenção humana.",
+            "source_name": "TechCrunch",
+            "source_url": "https://techcrunch.com"
+        },
+        {
+            "cat": "Dados",
+            "title": "Databricks anuncia engine de processamento 3x mais rápida",
+            "desc": "A nova versão do Photon Engine promete reduzir drasticamente custos de cloud computing para operações analíticas em larga escala.",
+            "source_name": "Databricks Blog",
+            "source_url": "https://databricks.com/blog"
+        },
+        {
+            "cat": "Controladoria",
+            "title": "IFRS 18 entra em vigor e muda a forma como empresas reportam resultados",
+            "desc": "A nova norma contábil internacional exige maior granularidade na demonstração de resultados, impactando diretamente equipes de controladoria e FP&A.",
+            "source_name": "IFRS Foundation",
+            "source_url": "https://ifrs.org"
+        }
+    ],
+    "trends": [
+        {
+            "icon": "🤖",
+            "title": "AI Agents Autônomos",
+            "desc": "Agentes que executam tarefas complexas de ponta a ponta, sem supervisão constante."
+        },
+        {
+            "icon": "📊",
+            "title": "Real-Time Analytics",
+            "desc": "Dashboards que processam dados em tempo real com latência inferior a 1 segundo."
+        },
+        {
+            "icon": "🔐",
+            "title": "Data Governance com IA",
+            "desc": "Ferramentas de governança que classificam dados sensíveis automaticamente."
+        },
+        {
+            "icon": "☁️",
+            "title": "FinOps e Otimização Cloud",
+            "desc": "Empresas economizam até 35% ao adotar práticas de FinOps em suas operações cloud."
+        }
+    ],
+    "tools": [
+        {
+            "icon": "⚡",
+            "name": "Cursor AI",
+            "desc": "Editor de código com IA integrada para desenvolvimento 10x mais rápido.",
+            "url": "https://cursor.sh"
+        },
+        {
+            "icon": "📈",
+            "name": "Evidence",
+            "desc": "BI as Code — gere dashboards com SQL e Markdown.",
+            "url": "https://evidence.dev"
+        },
+        {
+            "icon": "🔄",
+            "name": "n8n",
+            "desc": "Automação de workflows open-source com interface visual.",
+            "url": "https://n8n.io"
+        },
+        {
+            "icon": "🧠",
+            "name": "LangChain",
+            "desc": "Framework para construir aplicações com LLMs em produção.",
+            "url": "https://langchain.com"
+        }
+    ],
+    "videos": [
+        {
+            "youtube_id": "aircAruvnKk",
+            "title": "Redes Neurais do Zero — Andrej Karpathy",
+            "channel": "Andrej Karpathy",
+            "desc": "A aula mais completa sobre como redes neurais funcionam internamente, do zero ao backpropagation."
+        },
+        {
+            "youtube_id": "2IK3DFHRFfw",
+            "title": "Automação com n8n — Do Básico ao Avançado",
+            "channel": "Cole Medin",
+            "desc": "Tutorial prático de n8n para criar fluxos de automação inteligentes com IA integrada."
+        },
+        {
+            "youtube_id": "kCc8FmEb1nY",
+            "title": "Construindo um GPT do Zero com Python",
+            "channel": "Andrej Karpathy",
+            "desc": "Implementação completa de um modelo de linguagem generativo em Python, linha a linha."
+        }
+    ],
+    "insights": [
+        "Custo de cloud computing para Big Data caiu 12% no último trimestre — migração para serverless acelera.",
+        "Pipelines de dados serverless são prioridade estratégica de 70% dos CTOs para 2027.",
+        "Adoção de AI no fechamento contábil cresceu 180% em empresas do S&P 500 no último ano.",
+        "Ferramentas de Data Mesh estão sendo adotadas por 45% das Fortune 500 para descentralizar governança de dados."
+    ]
+}

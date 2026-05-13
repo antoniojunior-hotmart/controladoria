@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <!-- Meta Básico -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- SEO -->
+    <title>Controlador.IA News — IA, Controladoria, Finanças e Automação</title>
+    <meta name="description" content="Curadoria semanal de IA, Controladoria, Finanças e Automação para profissionais que decidem com dados.">
+    <meta name="keywords" content="inteligência artificial, controladoria, finanças, business intelligence, automação, dados, analytics, newsletter, tecnologia">
+    <meta name="author" content="Controlador.IA News">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Controlador.IA News — IA, Controladoria, Finanças e Automação">
+    <meta property="og:description" content="Curadoria semanal das principais notícias de IA, Controladoria e Automação.">
+    <meta property="og:site_name" content="Controlador.IA News">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Controlador.IA News — IA, Controladoria, Finanças e Automação">
+    <meta name="twitter:description" content="Curadoria semanal das principais notícias de IA, Controladoria e Automação.">
+
+    <!-- Favicon SVG inline -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧠</text></svg>">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700;800&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- ═══ Header ═══ -->
+    <header class="site-header" id="site-header">
+        <div class="container">
+            <a href="index.html">
+                <div class="site-logo"><span class="logo-brand">Controlador.IA</span><span class="logo-news">News</span></div>
+            </a>
+            <div class="site-tagline">Inteligência Artificial • Controladoria • Finanças • Automação</div>
+        </div>
+    </header>
+
+    <!-- ═══ Main Content ═══ -->
+    <main class="container">
+
+        <!-- Intro -->
+        <section class="index-hero" id="index-hero">
+            <h2>Acervo de Edições</h2>
+            <p>Curadoria semanal das principais notícias de tecnologia, finanças e automação para profissionais que lideram com dados.</p>
+        </section>
+
+        <!-- Edição Mais Recente (dinâmico) -->
+        <section id="latest-edition-container">
+            <!-- Preenchido via JS -->
+        </section>
+
+        <!-- Edições Anteriores (dinâmico) -->
+        <section class="editions-section" id="editions-section">
+            <h3 class="section-title">Edições Anteriores</h3>
+            <div class="editions-grid" id="editions-grid">
+                <!-- Preenchido via JS -->
+            </div>
+        </section>
+
+    </main>
+
+    <!-- ═══ Footer ═══ -->
+    <footer class="site-footer" id="site-footer">
+        <div class="container">
+            <div class="footer-brand">Controlador.IA News</div>
+            <p class="footer-desc">Curadoria semanal automatizada de IA, Controladoria, Finanças e Automação para profissionais que decidem com dados.</p>
+            <div class="footer-links">
+                <a href="index.html">Início</a>
+                <a href="#editions-section">Acervo</a>
+            </div>
+            <p class="footer-copy">&copy; 2026 Controlador.IA News. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- ═══ Script ═══ -->
+    <script>
+    (function() {
+        'use strict';
+
+        var EDITIONS_URL = 'data/editions.json';
+
+        /**
+         * Carrega o arquivo editions.json e monta a página
+         */
+        function init() {
+            fetch(EDITIONS_URL)
+                .then(function(res) {
+                    if (!res.ok) throw new Error('HTTP ' + res.status);
+                    return res.json();
+                })
+                .then(function(data) {
+                    var editions = data.editions || [];
+                    renderEditions(editions);
+                })
+                .catch(function(err) {
+                    console.error('Controlador.IA News: Erro ao carregar edições:', err);
+                    renderEmpty();
+                });
+        }
+
+        /**
+         * Renderiza edições na página
+         */
+        function renderEditions(editions) {
+            var latestContainer = document.getElementById('latest-edition-container');
+            var gridContainer = document.getElementById('editions-grid');
+            var sectionTitle = document.querySelector('#editions-section .section-title');
+
+            if (!editions || editions.length === 0) {
+                renderEmpty();
+                return;
+            }
+
+            // Ordena por ID decrescente (mais recente primeiro)
+            editions.sort(function(a, b) { return parseInt(b.id) - parseInt(a.id); });
+
+            // Edição mais recente — card destaque
+            var latest = editions[0];
+            latestContainer.innerHTML =
+                '<a href="news/' + latest.slug + '.html" class="latest-edition" id="latest-card">' +
+                    '<span class="latest-label">✦ Edição Mais Recente</span>' +
+                    '<div class="edition-title">' + escapeHtml(latest.title) + '</div>' +
+                    '<div class="edition-date">Edição #' + escapeHtml(latest.id) + ' — ' + escapeHtml(latest.date) + '</div>' +
+                    (latest.summary ? '<p class="edition-summary">' + escapeHtml(latest.summary) + '</p>' : '') +
+                    '<span class="read-cta">Ler edição completa →</span>' +
+                '</a>';
+
+            // Edições anteriores
+            if (editions.length <= 1) {
+                if (sectionTitle) sectionTitle.style.display = 'none';
+                gridContainer.innerHTML = '';
+                return;
+            }
+
+            var html = '';
+            for (var i = 1; i < editions.length; i++) {
+                var ed = editions[i];
+                html +=
+                    '<a href="news/' + ed.slug + '.html" class="edition-card">' +
+                        '<div class="edition-date">Edição #' + escapeHtml(ed.id) + ' — ' + escapeHtml(ed.date) + '</div>' +
+                        '<div class="edition-title">' + escapeHtml(ed.title) + '</div>' +
+                        (ed.summary ? '<p class="edition-summary">' + escapeHtml(ed.summary) + '</p>' : '') +
+                    '</a>';
+            }
+            gridContainer.innerHTML = html;
+        }
+
+        /**
+         * Estado vazio
+         */
+        function renderEmpty() {
+            var latestContainer = document.getElementById('latest-edition-container');
+            var sectionTitle = document.querySelector('#editions-section .section-title');
+            var gridContainer = document.getElementById('editions-grid');
+
+            latestContainer.innerHTML =
+                '<div class="empty-state">' +
+                    '<div class="empty-icon">📭</div>' +
+                    '<p>Nenhuma edição publicada ainda.<br>A primeira newsletter será gerada automaticamente em breve.</p>' +
+                '</div>';
+
+            if (sectionTitle) sectionTitle.style.display = 'none';
+            if (gridContainer) gridContainer.innerHTML = '';
+        }
+
+        /**
+         * Escapa HTML para prevenir XSS
+         */
+        function escapeHtml(str) {
+            if (!str) return '';
+            var div = document.createElement('div');
+            div.appendChild(document.createTextNode(str));
+            return div.innerHTML;
+        }
+
+        // Roda quando o DOM estiver pronto
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    })();
+    </script>
+
+</body>
+</html>
