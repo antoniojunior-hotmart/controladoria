@@ -1,127 +1,127 @@
 {
-    "id": "01",
-    "date": "07 de Maio, 2026",
-    "slug": "2026-05-07",
-    "title": "A Nova Era da Controladoria Inteligente",
-    "summary": "Agentes de IA revolucionam o fechamento contábil e a análise financeira. Novas ferramentas de automação de dados e blockchain ganham tração no mercado.",
-    "hero_title": "Agentes de IA estão substituindo analistas de dados em tarefas repetitivas",
-    "hero_content": "A integração de modelos avançados diretamente nos fluxos de dados corporativos está permitindo que equipes de finanças e controladoria foquem em estratégia e tomada de decisão, reduzindo o tempo de fechamento contábil em até 40%. Empresas líderes do setor já relatam ganhos expressivos de produtividade.",
-    "news": [
-        {
-            "cat": "Tecnologia",
-            "title": "Novo framework open-source para automação de dados lançado no GitHub",
-            "desc": "Desenvolvedores open-source criaram uma ferramenta capaz de tratar terabytes de dados sem necessidade de infraestrutura pesada, prometendo democratizar o acesso a Big Data.",
-            "source_name": "GitHub Blog",
-            "source_url": "https://github.blog"
-        },
-        {
-            "cat": "Finanças",
-            "title": "Bancos aceleram adoção de Blockchain para conciliação bancária",
-            "desc": "A necessidade de auditoria instantânea e transparência está forçando grandes instituições financeiras a abandonarem sistemas legados em favor de soluções baseadas em DLT.",
-            "source_name": "Bloomberg",
-            "source_url": "https://bloomberg.com"
-        },
-        {
-            "cat": "IA",
-            "title": "GPT-5 redefine benchmarks de raciocínio lógico e análise financeira",
-            "desc": "O novo modelo da OpenAI demonstra capacidade inédita de interpretar balanços patrimoniais e gerar relatórios gerenciais automatizados com precisão superior a 95%.",
-            "source_name": "OpenAI Blog",
-            "source_url": "https://openai.com/blog"
-        },
-        {
-            "cat": "Automação",
-            "title": "RPA 2.0: A nova geração de automação inteligente chega ao mercado",
-            "desc": "Plataformas de automação estão incorporando modelos de linguagem para criar fluxos de trabalho que se adaptam a exceções sem intervenção humana.",
-            "source_name": "TechCrunch",
-            "source_url": "https://techcrunch.com"
-        },
-        {
-            "cat": "Dados",
-            "title": "Databricks anuncia engine de processamento 3x mais rápida",
-            "desc": "A nova versão do Photon Engine promete reduzir drasticamente custos de cloud computing para operações analíticas em larga escala.",
-            "source_name": "Databricks Blog",
-            "source_url": "https://databricks.com/blog"
-        },
-        {
-            "cat": "Controladoria",
-            "title": "IFRS 18 entra em vigor e muda a forma como empresas reportam resultados",
-            "desc": "A nova norma contábil internacional exige maior granularidade na demonstração de resultados, impactando diretamente equipes de controladoria e FP&A.",
-            "source_name": "IFRS Foundation",
-            "source_url": "https://ifrs.org"
-        }
-    ],
-    "trends": [
-        {
-            "icon": "🤖",
-            "title": "AI Agents Autônomos",
-            "desc": "Agentes que executam tarefas complexas de ponta a ponta, sem supervisão constante."
-        },
-        {
-            "icon": "📊",
-            "title": "Real-Time Analytics",
-            "desc": "Dashboards que processam dados em tempo real com latência inferior a 1 segundo."
-        },
-        {
-            "icon": "🔐",
-            "title": "Data Governance com IA",
-            "desc": "Ferramentas de governança que classificam dados sensíveis automaticamente."
-        },
-        {
-            "icon": "☁️",
-            "title": "FinOps e Otimização Cloud",
-            "desc": "Empresas economizam até 35% ao adotar práticas de FinOps em suas operações cloud."
-        }
-    ],
-    "tools": [
-        {
-            "icon": "⚡",
-            "name": "Cursor AI",
-            "desc": "Editor de código com IA integrada para desenvolvimento 10x mais rápido.",
-            "url": "https://cursor.sh"
-        },
-        {
-            "icon": "📈",
-            "name": "Evidence",
-            "desc": "BI as Code — gere dashboards com SQL e Markdown.",
-            "url": "https://evidence.dev"
-        },
-        {
-            "icon": "🔄",
-            "name": "n8n",
-            "desc": "Automação de workflows open-source com interface visual.",
-            "url": "https://n8n.io"
-        },
-        {
-            "icon": "🧠",
-            "name": "LangChain",
-            "desc": "Framework para construir aplicações com LLMs em produção.",
-            "url": "https://langchain.com"
-        }
-    ],
-    "videos": [
-        {
-            "youtube_id": "aircAruvnKk",
-            "title": "Redes Neurais do Zero — Andrej Karpathy",
-            "channel": "Andrej Karpathy",
-            "desc": "A aula mais completa sobre como redes neurais funcionam internamente, do zero ao backpropagation."
-        },
-        {
-            "youtube_id": "2IK3DFHRFfw",
-            "title": "Automação com n8n — Do Básico ao Avançado",
-            "channel": "Cole Medin",
-            "desc": "Tutorial prático de n8n para criar fluxos de automação inteligentes com IA integrada."
-        },
-        {
-            "youtube_id": "kCc8FmEb1nY",
-            "title": "Construindo um GPT do Zero com Python",
-            "channel": "Andrej Karpathy",
-            "desc": "Implementação completa de um modelo de linguagem generativo em Python, linha a linha."
-        }
-    ],
-    "insights": [
-        "Custo de cloud computing para Big Data caiu 12% no último trimestre — migração para serverless acelera.",
-        "Pipelines de dados serverless são prioridade estratégica de 70% dos CTOs para 2027.",
-        "Adoção de AI no fechamento contábil cresceu 180% em empresas do S&P 500 no último ano.",
-        "Ferramentas de Data Mesh estão sendo adotadas por 45% das Fortune 500 para descentralizar governança de dados."
-    ]
+"id": "2052026",
+"date": "12 de maio de 2026",
+"slug": "2026-05-11",
+"title": "A Revolução da Transparência: IFRS 18 e a IA na Gestão de Caixa",
+"summary": "A nova norma IFRS 18 redefine a DRE para 2027, enquanto a IA consolida-se como pilar estratégico na tesouraria e automação de processos financeiros.",
+"hero_title": "IFRS 18: A maior mudança nas normas contábeis em 20 anos",
+"hero_content": "A nova norma IFRS 18 (CPC 51) reorganiza a DRE em categorias obrigatórias para elevar a comparabilidade global. Para o controller, isso exige uma revisão imediata dos sistemas de TI e planos de contas.",
+"news": [
+{
+"cat": "Controladoria",
+"title": "IFRS 18: Nova norma amplia transparência e comparação de resultados",
+"desc": "Publicada pelo IASB, a norma exige novas categorias na DRE (operacional, investimento e financeira) a partir de 2027.",
+"source_name": "Contadores.cnt.br",
+"source_url": "https://www.contadores.cnt.br/noticias/tecnicas/2026/05/11/nova-norma-ifrs-amplia-transparencia-e-comparacao-de-resultados-das-empresas.html"
+},
+{
+"cat": "Finanças",
+"title": "Tesouraria Estratégica: O papel da IA na gestão de riscos e caixa",
+"desc": "Executivos da John Deere discutem como a IA transforma a tesouraria de operacional para um pilar de decisão estratégica.",
+"source_name": "Treasy Blog",
+"source_url": "https://www.treasy.com.br/blog/tesouraria-estrategica-controller-cast-andre-biasotto/"
+},
+{
+"cat": "IA",
+"title": "Claude for Financial Services: IA generativa aplicada ao FP&A",
+"desc": "Anthropic lança templates específicos para serviços financeiros, focando em automação de relatórios e análise de fluxo de caixa.",
+"source_name": "Anthropic News",
+"source_url": "https://www.anthropic.com/news"
+},
+{
+"cat": "Automação",
+"title": "n8n e OpenClaw: Automação de processos financeiros sem necessidade de VPS",
+"desc": "Novas integrações permitem criar agentes autônomos para conciliação e fechamento contábil com baixo custo operacional.",
+"source_name": "TI Inside",
+"source_url": "https://tiinside.com.br/"
+},
+{
+"cat": "Tecnologia",
+"title": "IA Conversacional no ERP: O futuro do fechamento contábil",
+"desc": "Destaques do SuiteConnect 2026 mostram como a IA generativa está sendo integrada nativamente nos sistemas de gestão.",
+"source_name": "IT Forum",
+"source_url": "https://itforum.com.br/"
+},
+{
+"cat": "Dados",
+"title": "ROI em IA: Como calcular o retorno real da automação financeira",
+"desc": "Estudo detalha custos ocultos e governança necessários para garantir que projetos de IA tragam lucro real ao caixa.",
+"source_name": "MIT Sloan Review Brasil",
+"source_url": "https://mitsloanreview.com.br/"
+}
+],
+"trends": [
+{
+"icon": "📊",
+"title": "DRE Padronizada",
+"desc": "Fim da liberdade total nos subtotais da DRE com a chegada da IFRS 18 em 2027."
+},
+{
+"icon": "🤖",
+"title": "Agentes de Tesouraria",
+"desc": "IA deixando de ser chat para se tornar agente autônomo de execução financeira."
+},
+{
+"icon": "📉",
+"title": "Fim da Isenção",
+"desc": "Impacto no fluxo de caixa com a nova tributação sobre distribuição de lucros em 2026."
+},
+{
+"icon": "☁️",
+"title": "Cloud DataOps",
+"desc": "Migração massiva de pipelines de dados financeiros para arquiteturas serverless."
+}
+],
+"tools": [
+{
+"icon": "⚡",
+"name": "n8n",
+"desc": "Plataforma de automação low-code ideal para conectar ERPs e APIs financeiras.",
+"url": "https://n8n.io"
+},
+{
+"icon": "🧠",
+"name": "Claude Code",
+"desc": "Nova ferramenta da Anthropic para automação de scripts de análise de dados.",
+"url": "https://claude.ai"
+},
+{
+"icon": "📈",
+"name": "Airtable AI",
+"desc": "Transformação de dados de formulários em relatórios financeiros automáticos.",
+"url": "https://airtable.com"
+},
+{
+"icon": "🛡️",
+"name": "Gumloop",
+"desc": "Agentes de IA focados em fluxos de trabalho complexos e governança de dados.",
+"url": "https://www.gumloop.com"
+}
+],
+"videos": [
+{
+"youtube_id": "jZcEGOFGclc",
+"title": "CPC 51 (IFRS 18 ): A NOVA DRE E PRINCIPAIS MUDANÇAS",
+"channel": "Contabilidade Facilitada",
+"desc": "Guia completo sobre as mudanças estruturais na demonstração de resultados."
+},
+{
+"youtube_id": "JHk4qKKvt20",
+"title": "Sistema de IA que está gerando resultado real no mercado",
+"channel": "Automação Inteligente",
+"desc": "Como unir n8n e IA para criar sistemas financeiros robustos."
+},
+{
+"youtube_id": "Cg7LcaKTtmY",
+"title": "O fechamento gerencial está travando suas decisões em 2026?",
+"channel": "Tech6 Group",
+"desc": "O futuro do FP&A e Controladoria com o uso de LLMs."
+}
+],
+"insights": [
+"A IFRS 18 reduzirá a variabilidade no cálculo do lucro operacional entre empresas globais.",
+"Empresas que automatizam tarefas operacionais liberam 40% mais tempo para análise estratégica.",
+"A tributação de dividendos em 2026 exige revisão imediata da política de JCP e lucros.",
+"Agentes de IA já conseguem reduzir o tempo de conciliação bancária em até 70%."
+]
 }
