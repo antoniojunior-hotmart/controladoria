@@ -1,101 +1,101 @@
 {
-"id": "2052026",
-"date": "12 de maio de 2026",
-"slug": "2026-05-11",
-"title": "A Revolução da Transparência: IFRS 18 e a IA na Gestão de Caixa",
-"summary": "A nova norma IFRS 18 redefine a DRE para 2027, enquanto a IA consolida-se como pilar estratégico na tesouraria e automação de processos financeiros.",
-"hero_title": "IFRS 18: A maior mudança nas normas contábeis em 20 anos",
-"hero_content": "A nova norma IFRS 18 (CPC 51) reorganiza a DRE em categorias obrigatórias para elevar a comparabilidade global. Para o controller, isso exige uma revisão imediata dos sistemas de TI e planos de contas.",
+"id": "3052026",
+"date": "18 de maio de 2026",
+"slug": "2026-05-18",
+"title": "IA Bancária e Automação para PMEs: O Novo Cenário de Finanças",
+"summary": "OpenAI lança conexão bancária direta no ChatGPT e Anthropic foca em automação nativa para PMEs, transformando a gestão financeira em tempo real.",
+"hero_title": "ChatGPT agora acessa contas bancárias para gestão financeira",
+"hero_content": "A OpenAI lançou integração direta com o Plaid, permitindo que o ChatGPT analise saldos e transações reais. Para o financeiro, isso marca o fim da alimentação manual de dados para projeções de fluxo de caixa.",
 "news": [
 {
-"cat": "Controladoria",
-"title": "IFRS 18: Nova norma amplia transparência e comparação de resultados",
-"desc": "Publicada pelo IASB, a norma exige novas categorias na DRE (operacional, investimento e financeira) a partir de 2027.",
-"source_name": "Contadores.cnt.br",
-"source_url": "https://www.contadores.cnt.br/noticias/tecnicas/2026/05/11/nova-norma-ifrs-amplia-transparencia-e-comparacao-de-resultados-das-empresas.html"
-},
-{
-"cat": "Finanças",
-"title": "Tesouraria Estratégica: O papel da IA na gestão de riscos e caixa",
-"desc": "Executivos da John Deere discutem como a IA transforma a tesouraria de operacional para um pilar de decisão estratégica.",
-"source_name": "Treasy Blog",
-"source_url": "https://www.treasy.com.br/blog/tesouraria-estrategica-controller-cast-andre-biasotto/"
-},
-{
 "cat": "IA",
-"title": "Claude for Financial Services: IA generativa aplicada ao FP&A",
-"desc": "Anthropic lança templates específicos para serviços financeiros, focando em automação de relatórios e análise de fluxo de caixa.",
-"source_name": "Anthropic News",
-"source_url": "https://www.anthropic.com/news"
+"title": "OpenAI lança ferramenta de finanças pessoais conectada a bancos",
+"desc": "Recurso utiliza Plaid para ler transações de 12 mil instituições, permitindo análises de gastos personalizadas via ChatGPT.",
+"source_name": "Portal do Bitcoin",
+"source_url": "https://portaldobitcoin.uol.com.br/o-chatgpt-agora-pode-ver-sua-conta-bancaria-veja-o-que-isso-realmente-significa/"
 },
 {
 "cat": "Automação",
-"title": "n8n e OpenClaw: Automação de processos financeiros sem necessidade de VPS",
-"desc": "Novas integrações permitem criar agentes autônomos para conciliação e fechamento contábil com baixo custo operacional.",
-"source_name": "TI Inside",
-"source_url": "https://tiinside.com.br/"
+"title": "Anthropic lança Claude for Small Business com automação nativa",
+"desc": "Nova solução integra-se ao HubSpot, QuickBooks e PayPal para automatizar tarefas financeiras e de marketing sem sair das ferramentas.",
+"source_name": "Metodo Viral",
+"source_url": "https://metodoviral.com/noticias/claude-para-pequenas-empresas-automacao-de-ia-integrada/"
+},
+{
+"cat": "Controladoria",
+"title": "NBC TG 51: A norma que vai redesenhar a sua DRE em 2027",
+"desc": "Novas diretrizes exigem categorização obrigatória de receitas e despesas, impactando diretamente o fechamento contábil das empresas.",
+"source_name": "Instagram",
+"source_url": "https://www.instagram.com/p/DYdP_50xuHv/"
 },
 {
 "cat": "Tecnologia",
-"title": "IA Conversacional no ERP: O futuro do fechamento contábil",
-"desc": "Destaques do SuiteConnect 2026 mostram como a IA generativa está sendo integrada nativamente nos sistemas de gestão.",
-"source_name": "IT Forum",
-"source_url": "https://itforum.com.br/"
+"title": "Empresas chinesas de vídeo por IA superam OpenAI e Google",
+"desc": "Modelos da ByteDance e Kuaishou alcançam realismo superior, desafiando a hegemonia ocidental no mercado de geração de mídia.",
+"source_name": "Folha de S.Paulo",
+"source_url": "https://www1.folha.uol.com.br/mercado/2026/05/ferramentas-chinesas-de-video-por-ia-ultrapassam-openai-e-google.shtml"
+},
+{
+"cat": "Finanças",
+"title": "Dívida bruta do Brasil atinge marca histórica de R$ 10 trilhões",
+"desc": "Novos dados repercutem no mercado financeiro, elevando discussões sobre sustentabilidade fiscal e impacto nos juros de longo prazo.",
+"source_name": "Instagram",
+"source_url": "https://www.instagram.com/p/DYcr2jZjZ0b/"
 },
 {
 "cat": "Dados",
-"title": "ROI em IA: Como calcular o retorno real da automação financeira",
-"desc": "Estudo detalha custos ocultos e governança necessários para garantir que projetos de IA tragam lucro real ao caixa.",
-"source_name": "MIT Sloan Review Brasil",
-"source_url": "https://mitsloanreview.com.br/"
+"title": "Empresas adotam 'vale IA' para funcionários testarem ferramentas",
+"desc": "Grandes corporações destinam orçamento direto para que colaboradores experimentem modelos de IA em suas rotinas operacionais.",
+"source_name": "Folha de S.Paulo",
+"source_url": "https://www1.folha.uol.com.br/tec/2026/05/empresas-dao-vale-ia-a-funcionarios-para-teste-de-ferramentas.shtml"
 }
 ],
 "trends": [
 {
-"icon": "📊",
-"title": "DRE Padronizada",
-"desc": "Fim da liberdade total nos subtotais da DRE com a chegada da IFRS 18 em 2027."
+"icon": "🏦",
+"title": "Open Banking AI",
+"desc": "Integração direta de LLMs com APIs bancárias para consultoria financeira em tempo real."
 },
 {
-"icon": "🤖",
-"title": "Agentes de Tesouraria",
-"desc": "IA deixando de ser chat para se tornar agente autônomo de execução financeira."
+"icon": "💼",
+"title": "IA para PMEs",
+"desc": "Democratização da automação corporativa com ferramentas nativas e de baixo custo."
 },
 {
-"icon": "📉",
-"title": "Fim da Isenção",
-"desc": "Impacto no fluxo de caixa com a nova tributação sobre distribuição de lucros em 2026."
+"icon": "📑",
+"title": "DRE Estruturada",
+"desc": "Migração forçada para novos padrões de transparência contábil global (IFRS 18 )."
 },
 {
-"icon": "☁️",
-"title": "Cloud DataOps",
-"desc": "Migração massiva de pipelines de dados financeiros para arquiteturas serverless."
+"icon": "🇨🇳",
+"title": "Soberania Chinesa",
+"desc": "Avanço acelerado da China em modelos de IA generativa de alta fidelidade."
 }
 ],
 "tools": [
 {
-"icon": "⚡",
-"name": "n8n",
-"desc": "Plataforma de automação low-code ideal para conectar ERPs e APIs financeiras.",
-"url": "https://n8n.io"
+"icon": "💬",
+"name": "ChatGPT Finance",
+"desc": "Conexão bancária via Plaid para análise automática de extratos e investimentos.",
+"url": "https://openai.com"
 },
 {
-"icon": "🧠",
-"name": "Claude Code",
-"desc": "Nova ferramenta da Anthropic para automação de scripts de análise de dados.",
-"url": "https://claude.ai"
+"icon": "🛠️",
+"name": "Claude Cowork",
+"desc": "Camada de automação que conecta Claude ao QuickBooks, HubSpot e PayPal.",
+"url": "https://anthropic.com"
 },
 {
-"icon": "📈",
-"name": "Airtable AI",
-"desc": "Transformação de dados de formulários em relatórios financeiros automáticos.",
-"url": "https://airtable.com"
+"icon": "📊",
+"name": "QuickBooks AI",
+"desc": "Automação de faturas e reconciliação bancária integrada com agentes inteligentes.",
+"url": "https://quickbooks.intuit.com"
 },
 {
-"icon": "🛡️",
-"name": "Gumloop",
-"desc": "Agentes de IA focados em fluxos de trabalho complexos e governança de dados.",
-"url": "https://www.gumloop.com"
+"icon": "🚀",
+"name": "ListaGO 2026",
+"desc": "Nova automação inteligente para visibilidade e publicações automáticas de empresas.",
+"url": "https://listago.com.br"
 }
 ],
 "videos": [
@@ -103,25 +103,25 @@
 "youtube_id": "jZcEGOFGclc",
 "title": "CPC 51 (IFRS 18 ): A NOVA DRE E PRINCIPAIS MUDANÇAS",
 "channel": "Contabilidade Facilitada",
-"desc": "Guia completo sobre as mudanças estruturais na demonstração de resultados."
+"desc": "Entenda como a nova norma impacta a apresentação de resultados financeiros."
 },
 {
 "youtube_id": "JHk4qKKvt20",
 "title": "Sistema de IA que está gerando resultado real no mercado",
 "channel": "Automação Inteligente",
-"desc": "Como unir n8n e IA para criar sistemas financeiros robustos."
+"desc": "Demonstração prática de fluxos financeiros automatizados com n8n."
 },
 {
-"youtube_id": "Cg7LcaKTtmY",
-"title": "O fechamento gerencial está travando suas decisões em 2026?",
-"channel": "Tech6 Group",
-"desc": "O futuro do FP&A e Controladoria com o uso de LLMs."
+"youtube_id": "ASXob7Di9wc",
+"title": "IA generativa aplicada ao Direito brasileiro",
+"channel": "FGV Direito SP",
+"desc": "Apresentação de resultados sobre o impacto da IA em áreas regulatórias e jurídicas."
 }
 ],
 "insights": [
-"A IFRS 18 reduzirá a variabilidade no cálculo do lucro operacional entre empresas globais.",
-"Empresas que automatizam tarefas operacionais liberam 40% mais tempo para análise estratégica.",
-"A tributação de dividendos em 2026 exige revisão imediata da política de JCP e lucros.",
-"Agentes de IA já conseguem reduzir o tempo de conciliação bancária em até 70%."
+"A integração ChatGPT-Plaid permite análise de 90 dias de gastos em segundos.",
+"Pequenas empresas representam 44% do PIB dos EUA e agora são foco de IA nativa.",
+"A dívida bruta brasileira de R$ 10 trilhões pressiona a gestão de caixa corporativa.",
+"A IFRS 18 exige que empresas separem despesas em operacional, investimento e financiamento."
 ]
 }
