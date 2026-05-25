@@ -1,101 +1,101 @@
 {
-"id": "3052026",
-"date": "18 de maio de 2026",
-"slug": "2026-05-18",
-"title": "IA Bancária e Automação para PMEs: O Novo Cenário de Finanças",
-"summary": "OpenAI lança conexão bancária direta no ChatGPT e Anthropic foca em automação nativa para PMEs, transformando a gestão financeira em tempo real.",
-"hero_title": "ChatGPT agora acessa contas bancárias para gestão financeira",
-"hero_content": "A OpenAI lançou integração direta com o Plaid, permitindo que o ChatGPT analise saldos e transações reais. Para o financeiro, isso marca o fim da alimentação manual de dados para projeções de fluxo de caixa.",
+"id": "4052026",
+"date": "25 de maio de 2026",
+"slug": "2026-05-25",
+"title": "IA na Integridade Pública e a Nova Era do Crédito Bancário",
+"summary": "CGU economiza R$ 2 bilhões com IA em licitações, enquanto bancos aceleram o uso de automação e crédito consignado privado para blindar balanços.",
+"hero_title": "IA da CGU economiza R$ 2 bilhões em licitações federais",
+"hero_content": "A ferramenta Alice, da Controladoria-Geral da União, utiliza IA para analisar editais e contratos, prevenindo gastos irregulares. O sistema já gerou uma economia real bilionária para os cofres públicos.",
 "news": [
 {
-"cat": "IA",
-"title": "OpenAI lança ferramenta de finanças pessoais conectada a bancos",
-"desc": "Recurso utiliza Plaid para ler transações de 12 mil instituições, permitindo análises de gastos personalizadas via ChatGPT.",
-"source_name": "Portal do Bitcoin",
-"source_url": "https://portaldobitcoin.uol.com.br/o-chatgpt-agora-pode-ver-sua-conta-bancaria-veja-o-que-isso-realmente-significa/"
-},
-{
-"cat": "Automação",
-"title": "Anthropic lança Claude for Small Business com automação nativa",
-"desc": "Nova solução integra-se ao HubSpot, QuickBooks e PayPal para automatizar tarefas financeiras e de marketing sem sair das ferramentas.",
-"source_name": "Metodo Viral",
-"source_url": "https://metodoviral.com/noticias/claude-para-pequenas-empresas-automacao-de-ia-integrada/"
-},
-{
 "cat": "Controladoria",
-"title": "NBC TG 51: A norma que vai redesenhar a sua DRE em 2027",
-"desc": "Novas diretrizes exigem categorização obrigatória de receitas e despesas, impactando diretamente o fechamento contábil das empresas.",
-"source_name": "Instagram",
-"source_url": "https://www.instagram.com/p/DYdP_50xuHv/"
-},
-{
-"cat": "Tecnologia",
-"title": "Empresas chinesas de vídeo por IA superam OpenAI e Google",
-"desc": "Modelos da ByteDance e Kuaishou alcançam realismo superior, desafiando a hegemonia ocidental no mercado de geração de mídia.",
-"source_name": "Folha de S.Paulo",
-"source_url": "https://www1.folha.uol.com.br/mercado/2026/05/ferramentas-chinesas-de-video-por-ia-ultrapassam-openai-e-google.shtml"
+"title": "IA para editais economiza bilhões em licitações, diz ministro da CGU",
+"desc": "Ferramenta Alice analisa riscos em contratos e editais do Dnit, permitindo economia real de R$ 2 bilhões via auditoria tecnológica.",
+"source_name": "Consultor Jurídico",
+"source_url": "https://www.conjur.com.br/2026-mai-23/ia-para-editais-economiza-bilhoes-em-licitacoes-diz-ministro-da-cgu/"
 },
 {
 "cat": "Finanças",
-"title": "Dívida bruta do Brasil atinge marca histórica de R$ 10 trilhões",
-"desc": "Novos dados repercutem no mercado financeiro, elevando discussões sobre sustentabilidade fiscal e impacto nos juros de longo prazo.",
+"title": "Bancos acirram disputa pelo consignado privado no Brasil",
+"desc": "Carteira CLT cresce 142% e atinge R$ 100 bilhões. Instituições focam em crédito com garantia para reduzir inadimplência.",
+"source_name": "Seu Dinheiro",
+"source_url": "https://www.seudinheiro.com/2026/economia/a-corrida-dos-bancos-pelo-consignado-privado-e-o-credito-bom-para-pessoas-fisicas-mlim/"
+},
+{
+"cat": "IA",
+"title": "Diretor de banco pede desculpas por fala sobre IA e 'capital humano'",
+"desc": "Bill Winters, do Standard Chartered, gera polêmica ao descrever substituição de funções operacionais por automação e investimento.",
+"source_name": "G1 Economia",
+"source_url": "https://g1.globo.com/economia/noticia/2026/05/24/diretor-de-banco-funcionarios-inteligencia-artificial.ghtml"
+},
+{
+"cat": "Tecnologia",
+"title": "Instituto lança ferramenta para monitorar corrupção na saúde",
+"desc": "Novo sistema utiliza análise de dados para identificar irregularidades em investigações que somam 38 casos entre 2025 e 2026.",
+"source_name": "Folha de S.Paulo",
+"source_url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/05/instituto-lanca-ferramenta-para-monitorar-irregularidades-na-area-da-saude.shtml"
+},
+{
+"cat": "Automação",
+"title": "Semana do MEI 2026 foca em produtividade e ferramentas digitais",
+"desc": "Evento nacional oferece oficinas gratuitas para empreendedores aplicarem automação e gestão eficiente em pequenos negócios.",
 "source_name": "Instagram",
-"source_url": "https://www.instagram.com/p/DYcr2jZjZ0b/"
+"source_url": "https://www.instagram.com/reel/DYumrpUxPie/"
 },
 {
 "cat": "Dados",
-"title": "Empresas adotam 'vale IA' para funcionários testarem ferramentas",
-"desc": "Grandes corporações destinam orçamento direto para que colaboradores experimentem modelos de IA em suas rotinas operacionais.",
-"source_name": "Folha de S.Paulo",
-"source_url": "https://www1.folha.uol.com.br/tec/2026/05/empresas-dao-vale-ia-a-funcionarios-para-teste-de-ferramentas.shtml"
+"title": "Franq fortalece integração de IA para eficiência bancária",
+"desc": "Fintech brasileira aponta que 63% dos bancos priorizam IA e automação para melhorar a experiência do cliente e reduzir custos.",
+"source_name": "Instagram",
+"source_url": "https://www.instagram.com/p/DYujKF8jUrZ/"
 }
 ],
 "trends": [
 {
-"icon": "🏦",
-"title": "Open Banking AI",
-"desc": "Integração direta de LLMs com APIs bancárias para consultoria financeira em tempo real."
+"icon": "⚖️",
+"title": "IA na Integridade",
+"desc": "Uso massivo de algoritmos para auditoria preventiva e combate à corrupção no setor público."
 },
 {
-"icon": "💼",
-"title": "IA para PMEs",
-"desc": "Democratização da automação corporativa com ferramentas nativas e de baixo custo."
+"icon": "💳",
+"title": "Consignado Digital",
+"desc": "Expansão do crédito com garantia via FGTS e integração direta com a folha de pagamento."
 },
 {
-"icon": "📑",
-"title": "DRE Estruturada",
-"desc": "Migração forçada para novos padrões de transparência contábil global (IFRS 18 )."
+"icon": "🤖",
+"title": "Reskilling Bancário",
+"desc": "Pressão por requalificação de funcionários de back-office diante do avanço da automação."
 },
 {
-"icon": "🇨🇳",
-"title": "Soberania Chinesa",
-"desc": "Avanço acelerado da China em modelos de IA generativa de alta fidelidade."
+"icon": "📊",
+"title": "Transparência 2.0",
+"desc": "Acesso em tempo real a dados de emendas e programas sociais via portais governamentais."
 }
 ],
 "tools": [
 {
-"icon": "💬",
-"name": "ChatGPT Finance",
-"desc": "Conexão bancária via Plaid para análise automática de extratos e investimentos.",
-"url": "https://openai.com"
+"icon": "🔍",
+"name": "Alice (CGU )",
+"desc": "Analisador de Licitações que identifica riscos e economiza bilhões para o governo.",
+"url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/alice"
 },
 {
-"icon": "🛠️",
-"name": "Claude Cowork",
-"desc": "Camada de automação que conecta Claude ao QuickBooks, HubSpot e PayPal.",
-"url": "https://anthropic.com"
+"icon": "⚡",
+"name": "n8n",
+"desc": "Plataforma líder para automação de workflows financeiros e integração de APIs.",
+"url": "https://n8n.io"
 },
 {
-"icon": "📊",
-"name": "QuickBooks AI",
-"desc": "Automação de faturas e reconciliação bancária integrada com agentes inteligentes.",
-"url": "https://quickbooks.intuit.com"
+"icon": "📈",
+"name": "Billd",
+"desc": "Startup de tecnologia financeira em destaque para o setor de construção civil.",
+"url": "https://billd.com"
 },
 {
-"icon": "🚀",
-"name": "ListaGO 2026",
-"desc": "Nova automação inteligente para visibilidade e publicações automáticas de empresas.",
-"url": "https://listago.com.br"
+"icon": "📱",
+"name": "CTPS Digital",
+"desc": "Centralização de garantias de crédito e FGTS para trabalhadores do setor privado.",
+"url": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho"
 }
 ],
 "videos": [
@@ -103,25 +103,25 @@
 "youtube_id": "jZcEGOFGclc",
 "title": "CPC 51 (IFRS 18 ): A NOVA DRE E PRINCIPAIS MUDANÇAS",
 "channel": "Contabilidade Facilitada",
-"desc": "Entenda como a nova norma impacta a apresentação de resultados financeiros."
+"desc": "Guia essencial sobre as mudanças na apresentação de resultados para 2027."
 },
 {
 "youtube_id": "JHk4qKKvt20",
 "title": "Sistema de IA que está gerando resultado real no mercado",
 "channel": "Automação Inteligente",
-"desc": "Demonstração prática de fluxos financeiros automatizados com n8n."
+"desc": "Como aplicar IA e n8n para criar sistemas financeiros eficientes."
 },
 {
-"youtube_id": "ASXob7Di9wc",
-"title": "IA generativa aplicada ao Direito brasileiro",
-"channel": "FGV Direito SP",
-"desc": "Apresentação de resultados sobre o impacto da IA em áreas regulatórias e jurídicas."
+"youtube_id": "Cg7LcaKTtmY",
+"title": "O futuro do FP&A e Controladoria com IA",
+"channel": "Tech6 Group",
+"desc": "Discussão sobre como LLMs estão transformando o fechamento gerencial."
 }
 ],
 "insights": [
-"A integração ChatGPT-Plaid permite análise de 90 dias de gastos em segundos.",
-"Pequenas empresas representam 44% do PIB dos EUA e agora são foco de IA nativa.",
-"A dívida bruta brasileira de R$ 10 trilhões pressiona a gestão de caixa corporativa.",
-"A IFRS 18 exige que empresas separem despesas em operacional, investimento e financiamento."
+"A ferramenta Alice da CGU já evitou o gasto indevido de R$ 2 bilhões em licitações.",
+"O crédito consignado privado cresceu 142% em um ano, superando R$ 100 bilhões.",
+"Bancos preveem redução de 15% em cargos de back-office nos próximos 4 anos devido à IA.",
+"63% das instituições financeiras priorizam IA para melhorar a eficiência operacional hoje."
 ]
 }
