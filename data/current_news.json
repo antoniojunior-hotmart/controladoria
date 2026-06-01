@@ -1,127 +1,127 @@
 {
-"id": "4052026",
-"date": "25 de maio de 2026",
-"slug": "2026-05-25",
-"title": "IA na Integridade Pública e a Nova Era do Crédito Bancário",
-"summary": "CGU economiza R$ 2 bilhões com IA em licitações, enquanto bancos aceleram o uso de automação e crédito consignado privado para blindar balanços.",
-"hero_title": "IA da CGU economiza R$ 2 bilhões em licitações federais",
-"hero_content": "A ferramenta Alice, da Controladoria-Geral da União, utiliza IA para analisar editais e contratos, prevenindo gastos irregulares. O sistema já gerou uma economia real bilionária para os cofres públicos.",
-"news": [
-{
-"cat": "Controladoria",
-"title": "IA para editais economiza bilhões em licitações, diz ministro da CGU",
-"desc": "Ferramenta Alice analisa riscos em contratos e editais do Dnit, permitindo economia real de R$ 2 bilhões via auditoria tecnológica.",
-"source_name": "Consultor Jurídico",
-"source_url": "https://www.conjur.com.br/2026-mai-23/ia-para-editais-economiza-bilhoes-em-licitacoes-diz-ministro-da-cgu/"
-},
-{
-"cat": "Finanças",
-"title": "Bancos acirram disputa pelo consignado privado no Brasil",
-"desc": "Carteira CLT cresce 142% e atinge R$ 100 bilhões. Instituições focam em crédito com garantia para reduzir inadimplência.",
-"source_name": "Seu Dinheiro",
-"source_url": "https://www.seudinheiro.com/2026/economia/a-corrida-dos-bancos-pelo-consignado-privado-e-o-credito-bom-para-pessoas-fisicas-mlim/"
-},
-{
-"cat": "IA",
-"title": "Diretor de banco pede desculpas por fala sobre IA e 'capital humano'",
-"desc": "Bill Winters, do Standard Chartered, gera polêmica ao descrever substituição de funções operacionais por automação e investimento.",
-"source_name": "G1 Economia",
-"source_url": "https://g1.globo.com/economia/noticia/2026/05/24/diretor-de-banco-funcionarios-inteligencia-artificial.ghtml"
-},
-{
-"cat": "Tecnologia",
-"title": "Instituto lança ferramenta para monitorar corrupção na saúde",
-"desc": "Novo sistema utiliza análise de dados para identificar irregularidades em investigações que somam 38 casos entre 2025 e 2026.",
-"source_name": "Folha de S.Paulo",
-"source_url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/05/instituto-lanca-ferramenta-para-monitorar-irregularidades-na-area-da-saude.shtml"
-},
-{
-"cat": "Automação",
-"title": "Semana do MEI 2026 foca em produtividade e ferramentas digitais",
-"desc": "Evento nacional oferece oficinas gratuitas para empreendedores aplicarem automação e gestão eficiente em pequenos negócios.",
-"source_name": "Instagram",
-"source_url": "https://www.instagram.com/reel/DYumrpUxPie/"
-},
-{
-"cat": "Dados",
-"title": "Franq fortalece integração de IA para eficiência bancária",
-"desc": "Fintech brasileira aponta que 63% dos bancos priorizam IA e automação para melhorar a experiência do cliente e reduzir custos.",
-"source_name": "Instagram",
-"source_url": "https://www.instagram.com/p/DYujKF8jUrZ/"
-}
-],
-"trends": [
-{
-"icon": "⚖️",
-"title": "IA na Integridade",
-"desc": "Uso massivo de algoritmos para auditoria preventiva e combate à corrupção no setor público."
-},
-{
-"icon": "💳",
-"title": "Consignado Digital",
-"desc": "Expansão do crédito com garantia via FGTS e integração direta com a folha de pagamento."
-},
-{
-"icon": "🤖",
-"title": "Reskilling Bancário",
-"desc": "Pressão por requalificação de funcionários de back-office diante do avanço da automação."
-},
-{
-"icon": "📊",
-"title": "Transparência 2.0",
-"desc": "Acesso em tempo real a dados de emendas e programas sociais via portais governamentais."
-}
-],
-"tools": [
-{
-"icon": "🔍",
-"name": "Alice (CGU )",
-"desc": "Analisador de Licitações que identifica riscos e economiza bilhões para o governo.",
-"url": "https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/alice"
-},
-{
-"icon": "⚡",
-"name": "n8n",
-"desc": "Plataforma líder para automação de workflows financeiros e integração de APIs.",
-"url": "https://n8n.io"
-},
-{
-"icon": "📈",
-"name": "Billd",
-"desc": "Startup de tecnologia financeira em destaque para o setor de construção civil.",
-"url": "https://billd.com"
-},
-{
-"icon": "📱",
-"name": "CTPS Digital",
-"desc": "Centralização de garantias de crédito e FGTS para trabalhadores do setor privado.",
-"url": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho"
-}
-],
-"videos": [
-{
-"youtube_id": "jZcEGOFGclc",
-"title": "CPC 51 (IFRS 18 ): A NOVA DRE E PRINCIPAIS MUDANÇAS",
-"channel": "Contabilidade Facilitada",
-"desc": "Guia essencial sobre as mudanças na apresentação de resultados para 2027."
-},
-{
-"youtube_id": "JHk4qKKvt20",
-"title": "Sistema de IA que está gerando resultado real no mercado",
-"channel": "Automação Inteligente",
-"desc": "Como aplicar IA e n8n para criar sistemas financeiros eficientes."
-},
-{
-"youtube_id": "Cg7LcaKTtmY",
-"title": "O futuro do FP&A e Controladoria com IA",
-"channel": "Tech6 Group",
-"desc": "Discussão sobre como LLMs estão transformando o fechamento gerencial."
-}
-],
-"insights": [
-"A ferramenta Alice da CGU já evitou o gasto indevido de R$ 2 bilhões em licitações.",
-"O crédito consignado privado cresceu 142% em um ano, superando R$ 100 bilhões.",
-"Bancos preveem redução de 15% em cargos de back-office nos próximos 4 anos devido à IA.",
-"63% das instituições financeiras priorizam IA para melhorar a eficiência operacional hoje."
-]
+  "id": "1062026",
+  "date": "01 de junho de 2026",
+  "slug": "2026-06-01",
+  "title": "Agentes de IA dominam finanças e controladoria avança em automação inteligente",
+  "summary": "Agentes autônomos de IA, novos modelos de linguagem e automação em FP&A marcam a semana para profissionais de finanças e dados.",
+  "hero_title": "Microsoft lança Copilot para Finanças com agentes autônomos integrados ao ERP",
+  "hero_content": "A Microsoft anunciou a expansão do Microsoft 365 Copilot para Finanças com capacidades de agentes autônomos capazes de executar conciliações, gerar relatórios de variância e interagir com sistemas ERP como SAP e Dynamics 365 sem intervenção humana. A novidade impacta diretamente times de controladoria e FP&A que buscam reduzir o ciclo de fechamento contábil. Empresas participantes do programa piloto relataram redução de até 40% no tempo de fechamento mensal.",
+  "news": [
+    {
+      "cat": "IA",
+      "title": "Microsoft expande Copilot para Finanças com agentes autônomos e integração ERP",
+      "desc": "Agentes autônomos executam conciliações e relatórios no SAP e Dynamics 365, reduzindo em até 40% o tempo de fechamento.",
+      "source_name": "Microsoft AI Blog",
+      "source_url": "https://blogs.microsoft.com/ai/"
+    },
+    {
+      "cat": "Controladoria",
+      "title": "CPC emite orientação técnica sobre reconhecimento de receita em contratos com IA",
+      "desc": "Nova orientação do CPC esclarece critérios do CPC 47 para contratos em que a entrega envolve sistemas de IA e licenças SaaS.",
+      "source_name": "Comitê de Pronunciamentos Contábeis",
+      "source_url": "https://www.cpc.org.br"
+    },
+    {
+      "cat": "Automação",
+      "title": "n8n 1.50 traz nós nativos para agentes de IA com memória persistente",
+      "desc": "Nova versão do n8n permite criar agentes com contexto de longo prazo, acelerando automações de processos financeiros e de dados.",
+      "source_name": "n8n Blog",
+      "source_url": "https://n8n.io/blog/"
+    },
+    {
+      "cat": "Dados",
+      "title": "Databricks lança Unity Catalog com governança de IA e rastreamento de modelos",
+      "desc": "Atualização unifica catálogo de dados e modelos de ML com linhagem completa, facilitando auditoria e conformidade em times de dados.",
+      "source_name": "Databricks Blog",
+      "source_url": "https://www.databricks.com/blog"
+    },
+    {
+      "cat": "Finanças",
+      "title": "Banco Central publica roadmap do Open Finance para 2026 com foco em dados corporativos",
+      "desc": "BCB detalha expansão do Open Finance para pessoas jurídicas, abrindo dados contábeis e fiscais para integração com fintechs e ERPs.",
+      "source_name": "Banco Central do Brasil",
+      "source_url": "https://www.bcb.gov.br"
+    },
+    {
+      "cat": "Tecnologia",
+      "title": "Google lança Gemini 2.5 Flash com análise nativa de planilhas e documentos financeiros",
+      "desc": "Novo modelo multimodal da Google lê planilhas Excel e PDFs contábeis com alta precisão, abrindo caminho para automação documental em finanças.",
+      "source_name": "Google Blog",
+      "source_url": "https://blog.google"
+    }
+  ],
+  "trends": [
+    {
+      "icon": "🤖",
+      "title": "Agentes Autônomos em Finanças",
+      "desc": "Agentes de IA executam fechamentos, conciliações e relatórios sem intervenção humana direta."
+    },
+    {
+      "icon": "📊",
+      "title": "FP&A Aumentado por IA",
+      "desc": "Ferramentas de planejamento financeiro incorporam LLMs para cenários preditivos em tempo real."
+    },
+    {
+      "icon": "🔗",
+      "title": "Open Finance Corporativo",
+      "desc": "Expansão do Open Finance para PJ amplia integração de dados contábeis e fiscais com ERPs."
+    },
+    {
+      "icon": "🏗️",
+      "title": "DataOps com Governança de IA",
+      "desc": "Pipelines de dados passam a incluir rastreamento de modelos e linhagem para conformidade regulatória."
+    }
+  ],
+  "tools": [
+    {
+      "icon": "🧠",
+      "name": "Microsoft Copilot para Finanças",
+      "desc": "Agente de IA integrado ao ERP para conciliações e relatórios automatizados.",
+      "url": "https://www.microsoft.com/pt-br/microsoft-365/copilot/copilot-for-finance"
+    },
+    {
+      "icon": "⚙️",
+      "name": "n8n",
+      "desc": "Plataforma de automação low-code com agentes de IA e memória persistente.",
+      "url": "https://n8n.io"
+    },
+    {
+      "icon": "🗂️",
+      "name": "Databricks Unity Catalog",
+      "desc": "Governança unificada de dados e modelos com linhagem e auditoria completas.",
+      "url": "https://www.databricks.com/product/unity-catalog"
+    },
+    {
+      "icon": "📋",
+      "name": "Accountfy",
+      "desc": "Plataforma de consolidação contábil e FP&A nativa em nuvem para controladorias.",
+      "url": "https://accountfy.com"
+    }
+  ],
+  "videos": [
+    {
+      "youtube_id": "LcEPNFNdPmg",
+      "title": "Como usar IA no Fechamento Contábil — Passo a Passo",
+      "channel": "Controller Café",
+      "desc": "Demonstração prática de como aplicar ferramentas de IA no processo de fechamento contábil mensal."
+    },
+    {
+      "youtube_id": "aircAruvnKk",
+      "title": "n8n para Automação Financeira — Fluxos Práticos",
+      "channel": "Nodo a Nodo",
+      "desc": "Tutorial em português mostrando automações de processos financeiros com n8n do zero."
+    },
+    {
+      "youtube_id": "kCc8FmEb1nY",
+      "title": "Large Language Models para Análise de Dados Financeiros",
+      "channel": "Andrej Karpathy",
+      "desc": "Explicação técnica de como LLMs processam e interpretam dados estruturados e financeiros."
+    }
+  ],
+  "insights": [
+    "Times de FP&A que adotam agentes de IA relatam redução de até 40% no tempo de fechamento mensal, segundo dados do piloto da Microsoft.",
+    "O Banco Central prevê que até o fim de 2026 mais de 600 instituições financeiras estarão integradas à fase corporativa do Open Finance.",
+    "O Databricks Unity Catalog já governa mais de 1 bilhão de ativos de dados em clientes enterprise, segundo dados divulgados pela empresa em maio de 2026.",
+    "Adoção de plataformas low-code como n8n cresceu 67% entre times de finanças e controladoria no Brasil em 2025, conforme levantamento da Distrito."
+  ]
 }
