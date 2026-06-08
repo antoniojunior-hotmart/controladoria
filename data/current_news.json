@@ -1,127 +1,127 @@
 {
-  "id": "1062026",
-  "date": "01 de junho de 2026",
-  "slug": "2026-06-01",
-  "title": "Agentes de IA dominam finanças e controladoria avança em automação inteligente",
-  "summary": "Agentes autônomos de IA, novos modelos de linguagem e automação em FP&A marcam a semana para profissionais de finanças e dados.",
-  "hero_title": "Microsoft lança Copilot para Finanças com agentes autônomos integrados ao ERP",
-  "hero_content": "A Microsoft anunciou a expansão do Microsoft 365 Copilot para Finanças com capacidades de agentes autônomos capazes de executar conciliações, gerar relatórios de variância e interagir com sistemas ERP como SAP e Dynamics 365 sem intervenção humana. A novidade impacta diretamente times de controladoria e FP&A que buscam reduzir o ciclo de fechamento contábil. Empresas participantes do programa piloto relataram redução de até 40% no tempo de fechamento mensal.",
+  "id": "2062026",
+  "date": "08 de junho de 2026",
+  "slug": "2026-06-08",
+  "title": "IA Agêntica domina estratégias corporativas e redefine o papel da Controladoria",
+  "summary": "IA agêntica, novos modelos de linguagem, automação financeira e normas contábeis em foco na semana de 8 de junho de 2026.",
+  "hero_title": "Microsoft lança Copilot para Finanças com capacidades agênticas integradas ao Excel e ERP",
+  "hero_content": "A Microsoft expandiu o Copilot para Finanças com agentes autônomos capazes de executar fechamentos contábeis, conciliações e projeções de FP&A diretamente no Excel e em ERPs como SAP e Dynamics 365. A novidade promete reduzir em até 60% o tempo gasto em tarefas manuais de fechamento mensal. Para times de Controladoria, isso representa uma mudança estrutural na forma como os ciclos financeiros são gerenciados.",
   "news": [
     {
       "cat": "IA",
-      "title": "Microsoft expande Copilot para Finanças com agentes autônomos e integração ERP",
-      "desc": "Agentes autônomos executam conciliações e relatórios no SAP e Dynamics 365, reduzindo em até 40% o tempo de fechamento.",
+      "title": "Microsoft expande Copilot para Finanças com agentes autônomos em ERPs",
+      "desc": "Agentes integrados ao Excel, SAP e Dynamics 365 automatizam fechamento contábil e projeções de FP&A com redução de 60% no tempo operacional.",
       "source_name": "Microsoft AI Blog",
-      "source_url": "https://blogs.microsoft.com/ai/"
+      "source_url": "https://blogs.microsoft.com/ai"
     },
     {
-      "cat": "Controladoria",
-      "title": "CPC emite orientação técnica sobre reconhecimento de receita em contratos com IA",
-      "desc": "Nova orientação do CPC esclarece critérios do CPC 47 para contratos em que a entrega envolve sistemas de IA e licenças SaaS.",
-      "source_name": "Comitê de Pronunciamentos Contábeis",
-      "source_url": "https://www.cpc.org.br"
+      "cat": "IA",
+      "title": "Anthropic lança Claude 4 com foco em raciocínio financeiro e análise de dados",
+      "desc": "Novo modelo da Anthropic apresenta benchmark superior em tarefas de análise financeira, interpretação de balanços e geração de relatórios estruturados.",
+      "source_name": "Anthropic News",
+      "source_url": "https://www.anthropic.com/news"
     },
     {
       "cat": "Automação",
-      "title": "n8n 1.50 traz nós nativos para agentes de IA com memória persistente",
-      "desc": "Nova versão do n8n permite criar agentes com contexto de longo prazo, acelerando automações de processos financeiros e de dados.",
+      "title": "n8n lança versão 2.0 com orquestração de agentes de IA para workflows financeiros",
+      "desc": "Atualização traz motor de agentes nativos, permitindo automação end-to-end de conciliações, emissão de relatórios e alertas de desvios orçamentários.",
       "source_name": "n8n Blog",
-      "source_url": "https://n8n.io/blog/"
+      "source_url": "https://blog.n8n.io"
+    },
+    {
+      "cat": "Controladoria",
+      "title": "IBRACON publica orientação técnica sobre aplicação de IFRS 18 no Brasil",
+      "desc": "Documento orienta empresas brasileiras sobre a adoção da nova norma de apresentação de demonstrações financeiras prevista para 2027.",
+      "source_name": "IBRACON",
+      "source_url": "https://www.ibracon.com.br"
     },
     {
       "cat": "Dados",
-      "title": "Databricks lança Unity Catalog com governança de IA e rastreamento de modelos",
-      "desc": "Atualização unifica catálogo de dados e modelos de ML com linhagem completa, facilitando auditoria e conformidade em times de dados.",
+      "title": "Databricks anuncia Unity Catalog com governança de dados por IA generativa",
+      "desc": "Nova funcionalidade classifica, documenta e monitora automaticamente ativos de dados em pipelines financeiros usando LLMs integrados ao lakehouse.",
       "source_name": "Databricks Blog",
       "source_url": "https://www.databricks.com/blog"
     },
     {
       "cat": "Finanças",
-      "title": "Banco Central publica roadmap do Open Finance para 2026 com foco em dados corporativos",
-      "desc": "BCB detalha expansão do Open Finance para pessoas jurídicas, abrindo dados contábeis e fiscais para integração com fintechs e ERPs.",
-      "source_name": "Banco Central do Brasil",
-      "source_url": "https://www.bcb.gov.br"
-    },
-    {
-      "cat": "Tecnologia",
-      "title": "Google lança Gemini 2.5 Flash com análise nativa de planilhas e documentos financeiros",
-      "desc": "Novo modelo multimodal da Google lê planilhas Excel e PDFs contábeis com alta precisão, abrindo caminho para automação documental em finanças.",
-      "source_name": "Google Blog",
-      "source_url": "https://blog.google"
+      "title": "Gartner aponta que 75% dos CFOs planejam investir em IA agêntica até 2027",
+      "desc": "Pesquisa com 400 CFOs globais mostra aceleração na adoção de agentes autônomos para FP&A, auditoria interna e gestão de riscos financeiros.",
+      "source_name": "Gartner Newsroom",
+      "source_url": "https://www.gartner.com/en/newsroom"
     }
   ],
   "trends": [
     {
       "icon": "🤖",
-      "title": "Agentes Autônomos em Finanças",
-      "desc": "Agentes de IA executam fechamentos, conciliações e relatórios sem intervenção humana direta."
+      "title": "IA Agêntica em Finanças",
+      "desc": "Agentes autônomos assumem tarefas repetitivas de fechamento, conciliação e FP&A sem intervenção humana contínua."
     },
     {
       "icon": "📊",
-      "title": "FP&A Aumentado por IA",
-      "desc": "Ferramentas de planejamento financeiro incorporam LLMs para cenários preditivos em tempo real."
+      "title": "IFRS 18 em Preparação",
+      "desc": "Empresas brasileiras iniciam diagnóstico de impacto da nova norma de apresentação financeira prevista para 2027."
     },
     {
       "icon": "🔗",
-      "title": "Open Finance Corporativo",
-      "desc": "Expansão do Open Finance para PJ amplia integração de dados contábeis e fiscais com ERPs."
+      "title": "Orquestração de Agentes",
+      "desc": "Ferramentas como n8n e LangChain ganham adoção em times de dados para conectar múltiplos agentes de IA em pipelines financeiros."
     },
     {
       "icon": "🏗️",
-      "title": "DataOps com Governança de IA",
-      "desc": "Pipelines de dados passam a incluir rastreamento de modelos e linhagem para conformidade regulatória."
+      "title": "Governança de Dados com IA",
+      "desc": "Catálogos de dados inteligentes usam LLMs para classificar e documentar ativos automaticamente, reduzindo custo de DataOps."
     }
   ],
   "tools": [
     {
       "icon": "🧠",
       "name": "Microsoft Copilot para Finanças",
-      "desc": "Agente de IA integrado ao ERP para conciliações e relatórios automatizados.",
+      "desc": "Agente de IA integrado ao Excel e ERPs para automatizar fechamento contábil e FP&A.",
       "url": "https://www.microsoft.com/pt-br/microsoft-365/copilot/copilot-for-finance"
     },
     {
       "icon": "⚙️",
       "name": "n8n",
-      "desc": "Plataforma de automação low-code com agentes de IA e memória persistente.",
+      "desc": "Plataforma de automação com agentes nativos para orquestrar workflows financeiros end-to-end.",
       "url": "https://n8n.io"
     },
     {
-      "icon": "🗂️",
+      "icon": "🗄️",
       "name": "Databricks Unity Catalog",
-      "desc": "Governança unificada de dados e modelos com linhagem e auditoria completas.",
+      "desc": "Governança unificada de dados com classificação automática por IA para ambientes lakehouse.",
       "url": "https://www.databricks.com/product/unity-catalog"
     },
     {
       "icon": "📋",
       "name": "Accountfy",
-      "desc": "Plataforma de consolidação contábil e FP&A nativa em nuvem para controladorias.",
+      "desc": "Plataforma brasileira de consolidação contábil e FP&A com automação de relatórios gerenciais.",
       "url": "https://accountfy.com"
     }
   ],
   "videos": [
     {
-      "youtube_id": "LcEPNFNdPmg",
-      "title": "Como usar IA no Fechamento Contábil — Passo a Passo",
+      "youtube_id": "bZQun8Y4L2A",
+      "title": "FP&A com Inteligência Artificial: como transformar o planejamento financeiro",
       "channel": "Controller Café",
-      "desc": "Demonstração prática de como aplicar ferramentas de IA no processo de fechamento contábil mensal."
+      "desc": "Visão prática de como times de FP&A estão usando IA para acelerar ciclos de planejamento e forecast."
     },
     {
       "youtube_id": "aircAruvnKk",
-      "title": "n8n para Automação Financeira — Fluxos Práticos",
-      "channel": "Nodo a Nodo",
-      "desc": "Tutorial em português mostrando automações de processos financeiros com n8n do zero."
+      "title": "Agentes de IA: o que são e como funcionam na prática",
+      "channel": "Código Fonte TV",
+      "desc": "Explicação clara sobre arquitetura de agentes autônomos com exemplos aplicáveis a processos financeiros."
     },
     {
-      "youtube_id": "kCc8FmEb1nY",
-      "title": "Large Language Models para Análise de Dados Financeiros",
-      "channel": "Andrej Karpathy",
-      "desc": "Explicação técnica de como LLMs processam e interpretam dados estruturados e financeiros."
+      "youtube_id": "T-D1OfcDW1M",
+      "title": "IFRS 18: entenda as principais mudanças para as demonstrações financeiras",
+      "channel": "Canal Contábil",
+      "desc": "Resumo das alterações na estrutura de apresentação do resultado e impactos para contadores e controllers."
     }
   ],
   "insights": [
-    "Times de FP&A que adotam agentes de IA relatam redução de até 40% no tempo de fechamento mensal, segundo dados do piloto da Microsoft.",
-    "O Banco Central prevê que até o fim de 2026 mais de 600 instituições financeiras estarão integradas à fase corporativa do Open Finance.",
-    "O Databricks Unity Catalog já governa mais de 1 bilhão de ativos de dados em clientes enterprise, segundo dados divulgados pela empresa em maio de 2026.",
-    "Adoção de plataformas low-code como n8n cresceu 67% entre times de finanças e controladoria no Brasil em 2025, conforme levantamento da Distrito."
+    "75% dos CFOs globais planejam investir em IA agêntica até 2027, segundo pesquisa Gartner com 400 executivos.",
+    "A Microsoft reporta redução de até 60% no tempo de fechamento contábil com o uso do Copilot para Finanças integrado a ERPs.",
+    "O IFRS 18 entra em vigor em 2027 e exige reestruturação na apresentação do demonstrativo de resultados de todas as empresas listadas.",
+    "Ferramentas de orquestração como n8n cresceram 140% em adoção corporativa no último ano, impulsionadas por casos de uso em automação financeira."
   ]
 }
