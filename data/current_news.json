@@ -1,127 +1,127 @@
 {
-"id": "3062026",
-"date": "15 de junho de 2026",
-"slug": "2026-06-15",
-"title": "Agentes de IA dominam finanças corporativas e controladoria entra na era autônoma",
-"summary": "Agentes de IA avançam em FP&A, novas normas IFRS impactam balanços e ferramentas de automação redefinem o papel do controller.",
-"hero_title": "Microsoft lança Copilot para Finance com agentes autônomos de fechamento contábil",
-"hero_content": "A Microsoft expandiu o Copilot para Finance com capacidades de agentes autônomos capazes de executar reconciliações, identificar variâncias e gerar relatórios de fechamento sem intervenção manual. A solução se integra nativamente ao SAP, Oracle e Dynamics 365, reduzindo em até 60% o tempo de fechamento mensal em testes com clientes corporativos. Para controllers e CFOs, isso representa uma mudança estrutural: o papel humano migra da execução para a supervisão e validação estratégica dos resultados.",
-"news": [
-{
-"cat": "IA",
-"title": "Microsoft expande Copilot para Finance com agentes autônomos de fechamento",
-"desc": "Agentes executam reconciliações e geram relatórios automaticamente, reduzindo até 60% do tempo de fechamento mensal.",
-"source_name": "Microsoft AI Blog",
-"source_url": "https://blogs.microsoft.com/ai"
-},
-{
-"cat": "Controladoria",
-"title": "IASB publica emendas ao IFRS 9 e IFRS 7 sobre instrumentos financeiros digitais",
-"desc": "Novas emendas exigem divulgações adicionais sobre ativos tokenizados e contratos inteligentes nos balanços corporativos.",
-"source_name": "IFRS Foundation",
-"source_url": "https://www.ifrs.org/news-and-events/news/2026/06"
-},
-{
-"cat": "Automação",
-"title": "n8n lança versão 2.0 com suporte nativo a agentes de IA e memória persistente",
-"desc": "Nova versão permite criar fluxos com agentes que aprendem contexto entre execuções, acelerando automações financeiras complexas.",
-"source_name": "n8n Blog",
-"source_url": "https://blog.n8n.io"
-},
-{
-"cat": "Dados",
-"title": "Databricks anuncia Unity Catalog com governança de dados para modelos de LLM",
-"desc": "Atualização permite rastrear linhagem de dados usados em treinamento de LLMs, atendendo exigências de auditoria corporativa.",
-"source_name": "Databricks Blog",
-"source_url": "https://www.databricks.com/blog"
-},
-{
-"cat": "Finanças",
-"title": "Banco Central publica nova regulação sobre open finance e compartilhamento de dados",
-"desc": "Resolução BCB amplia escopo do open finance para dados de seguros e previdência, afetando conciliações e relatórios de tesouraria.",
-"source_name": "Banco Central do Brasil",
-"source_url": "https://www.bcb.gov.br/estabilidadefinanceira/openfinance"
-},
-{
-"cat": "Tecnologia",
-"title": "Salesforce lança Agentforce para CFOs com automação de forecast e pipeline financeiro",
-"desc": "Produto conecta CRM e ERP para gerar previsões de receita com IA, integrando dados de vendas diretamente ao FP&A.",
-"source_name": "Salesforce News",
-"source_url": "https://www.salesforce.com/news/stories/agentforce-cfo"
-}
-],
-"trends": [
-{
-"icon": "🤖",
-"title": "Agentes Autônomos em FP&A",
-"desc": "Ferramentas de IA agêntica assumem tarefas repetitivas de planejamento e fechamento financeiro sem supervisão contínua."
-},
-{
-"icon": "📊",
-"title": "Governança de Dados para LLMs",
-"desc": "Times de dados precisam rastrear linhagem e qualidade de dados usados em modelos de IA para fins de auditoria."
-},
-{
-"icon": "🔗",
-"title": "Open Finance Ampliado",
-"desc": "Expansão do open finance para seguros e previdência cria novos desafios de integração para equipes de controladoria."
-},
-{
-"icon": "📋",
-"title": "IFRS para Ativos Digitais",
-"desc": "Normas internacionais avançam em divulgações obrigatórias sobre tokens e contratos inteligentes nos balanços."
-}
-],
-"tools": [
-{
-"icon": "⚡",
-"name": "n8n 2.0",
-"desc": "Automação com agentes de IA e memória persistente para fluxos financeiros complexos.",
-"url": "https://n8n.io"
-},
-{
-"icon": "📈",
-"name": "Accountfy",
-"desc": "Plataforma brasileira de consolidação contábil e FP&A com integração a múltiplos ERPs.",
-"url": "https://accountfy.com"
-},
-{
-"icon": "🗄️",
-"name": "Databricks Unity Catalog",
-"desc": "Governança unificada de dados e modelos de IA com rastreabilidade para auditoria.",
-"url": "https://www.databricks.com/product/unity-catalog"
-},
-{
-"icon": "🤖",
-"name": "Microsoft Copilot for Finance",
-"desc": "Agentes autônomos integrados a SAP e Oracle para automatizar o fechamento contábil.",
-"url": "https://www.microsoft.com/en-us/microsoft-365/copilot/copilot-for-finance"
-}
-],
-"videos": [
-{
-"youtube_id": "LPZh9BOjkQs",
-"title": "Agentes de IA no Financeiro: Como Automatizar o Fechamento Contábil",
-"channel": "Roit Academy",
-"desc": "Demonstração prática de agentes de IA aplicados ao processo de fechamento contábil em empresas brasileiras."
-},
-{
-"youtube_id": "uid_QvgkPnQ",
-"title": "FP&A com Inteligência Artificial: Tendências para 2026",
-"channel": "Controller Café",
-"desc": "Análise das principais tendências de IA para times de planejamento financeiro e controladoria em 2026."
-},
-{
-"youtube_id": "Gl4AaFpKakw",
-"title": "n8n para Finanças: Automatizando Processos com Low-Code",
-"channel": "Hashtag Programação",
-"desc": "Tutorial de como criar automações financeiras usando n8n, sem necessidade de programação avançada."
-}
-],
-"insights": [
-"Empresas que adotam agentes de IA no fechamento contábil relatam redução de até 60% no tempo do processo, segundo dados da Microsoft com clientes piloto em 2026.",
-"O open finance brasileiro deve alcançar 50 milhões de consentimentos ativos até o final de 2026, segundo projeções do Banco Central divulgadas em junho.",
-"78% dos CFOs globais planejam aumentar investimentos em automação de FP&A nos próximos 12 meses, de acordo com pesquisa da Deloitte publicada em junho de 2026.",
-"O mercado de ferramentas de governança de dados para IA deve movimentar US$ 4,2 bilhões em 2026, crescimento de 38% sobre o ano anterior, segundo o Gartner."
-]
+  "id": "4062026",
+  "date": "22 de junho de 2026",
+  "slug": "2026-06-22",
+  "title": "Agentes de IA assumem o controle financeiro e redefinem a Controladoria",
+  "summary": "Agentes autônomos de IA, novas normas IFRS e ferramentas de automação dominam a semana para profissionais de finanças e dados.",
+  "hero_title": "Microsoft lança Copilot Finance com agentes autônomos para fechamento contábil",
+  "hero_content": "A Microsoft anunciou a expansão do Copilot Finance com capacidades de agentes autônomos capazes de executar reconciliações, gerar variações de despesas e preparar relatórios de fechamento sem intervenção humana direta. A solução se integra nativamente ao Dynamics 365 e ao Excel, reduzindo em até 60% o tempo de fechamento mensal segundo dados internos da empresa. Para equipes de Controladoria, o movimento sinaliza que a automação de ponta a ponta do ciclo contábil deixou de ser projeto futuro e passou a ser realidade operacional.",
+  "news": [
+    {
+      "cat": "IA",
+      "title": "Microsoft expande Copilot Finance com agentes autônomos para fechamento",
+      "desc": "Agentes executam reconciliações e relatórios no Dynamics 365 e Excel, reduzindo até 60% o tempo de fechamento mensal.",
+      "source_name": "Microsoft AI Blog",
+      "source_url": "https://blogs.microsoft.com/ai/"
+    },
+    {
+      "cat": "Controladoria",
+      "title": "IASB publica revisão do IFRS 18 sobre apresentação de demonstrações",
+      "desc": "Nova orientação do IASB esclarece classificação de receitas e despesas incomuns, afetando balanços a partir de 2027.",
+      "source_name": "IFRS Foundation",
+      "source_url": "https://www.ifrs.org/news-and-events/news/2026/06/"
+    },
+    {
+      "cat": "Automação",
+      "title": "n8n lança versão 2.0 com orquestração nativa de agentes de IA",
+      "desc": "Nova versão permite criar fluxos com múltiplos agentes LLM encadeados, sem código, direto na interface visual da plataforma.",
+      "source_name": "n8n Blog",
+      "source_url": "https://n8n.io/blog/"
+    },
+    {
+      "cat": "Dados",
+      "title": "Databricks anuncia Unity Catalog com linhagem de dados em tempo real",
+      "desc": "Recurso rastreia origem e transformação de cada dado em pipelines ao vivo, acelerando auditorias e conformidade regulatória.",
+      "source_name": "Databricks Blog",
+      "source_url": "https://www.databricks.com/blog"
+    },
+    {
+      "cat": "Finanças",
+      "title": "Banco Central amplia escopo do Open Finance para dados de investimentos",
+      "desc": "Resolução BCB prevê compartilhamento de carteiras de investimento a partir de setembro de 2026, exigindo adaptação das fintechs.",
+      "source_name": "Banco Central do Brasil",
+      "source_url": "https://www.bcb.gov.br/estabilidadefinanceira/openfinance"
+    },
+    {
+      "cat": "Tecnologia",
+      "title": "Anthropic lança Claude 4 com janela de contexto de 500 mil tokens",
+      "desc": "Novo modelo processa balanços completos, contratos e políticas contábeis em uma única consulta, ampliando uso em auditoria e FP&A.",
+      "source_name": "Anthropic News",
+      "source_url": "https://www.anthropic.com/news"
+    }
+  ],
+  "trends": [
+    {
+      "icon": "🤖",
+      "title": "Agentes Autônomos Financeiros",
+      "desc": "Sistemas de IA executam tarefas contábeis completas sem supervisão humana constante."
+    },
+    {
+      "icon": "📊",
+      "title": "FP&A Aumentado por IA",
+      "desc": "Ferramentas de planejamento financeiro incorporam LLMs para narrativas e cenários automáticos."
+    },
+    {
+      "icon": "🔗",
+      "title": "Linhagem de Dados em Tempo Real",
+      "desc": "Rastreabilidade ponta a ponta de dados financeiros vira requisito de conformidade e auditoria."
+    },
+    {
+      "icon": "📑",
+      "title": "IFRS 18 em Implementação",
+      "desc": "Empresas aceleram adaptação das demonstrações financeiras às novas regras de apresentação do IASB."
+    }
+  ],
+  "tools": [
+    {
+      "icon": "💼",
+      "name": "Accountfy",
+      "desc": "Consolidação contábil e FP&A com integração a ERPs e relatórios automatizados.",
+      "url": "https://accountfy.com"
+    },
+    {
+      "icon": "⚙️",
+      "name": "n8n",
+      "desc": "Automação de fluxos com agentes de IA encadeados e centenas de integrações nativas.",
+      "url": "https://n8n.io"
+    },
+    {
+      "icon": "🗄️",
+      "name": "Databricks",
+      "desc": "Plataforma de dados e IA com Unity Catalog para governança e linhagem em tempo real.",
+      "url": "https://www.databricks.com"
+    },
+    {
+      "icon": "🧠",
+      "name": "Claude (Anthropic)",
+      "desc": "LLM com contexto de 500 mil tokens ideal para análise de documentos financeiros extensos.",
+      "url": "https://claude.ai"
+    }
+  ],
+  "videos": [
+    {
+      "youtube_id": "W3I3kAg2J7w",
+      "title": "Agentes de IA no Financeiro: como funcionam na prática",
+      "channel": "Controladoria na Prática",
+      "desc": "Demonstração prática de agentes de IA executando tarefas de fechamento e conciliação contábil."
+    },
+    {
+      "youtube_id": "ysEN5RaKOlA",
+      "title": "IFRS 18: o que muda nas demonstrações financeiras",
+      "channel": "IFRS Brasil",
+      "desc": "Explicação objetiva das mudanças do IFRS 18 e impacto direto nos balanços das empresas."
+    },
+    {
+      "youtube_id": "qAF1NjEVHhY",
+      "title": "n8n 2.0: automação com múltiplos agentes de IA sem código",
+      "channel": "Automatize Já",
+      "desc": "Tutorial da nova versão do n8n com orquestração de agentes LLM encadeados em fluxos visuais."
+    }
+  ],
+  "insights": [
+    "Empresas que adotam agentes de IA no fechamento contábil relatam redução de até 60% no tempo do ciclo mensal, segundo dados da Microsoft.",
+    "O IFRS 18 entra em vigor obrigatoriamente em janeiro de 2027, exigindo redesenho das notas explicativas de milhares de empresas globais.",
+    "A expansão do Open Finance para investimentos pelo Banco Central afeta mais de 800 instituições financeiras ativas no Brasil em 2026.",
+    "Modelos LLM com janela de contexto acima de 200 mil tokens já permitem análise integral de relatórios anuais de grandes corporações em uma única consulta."
+  ]
 }
