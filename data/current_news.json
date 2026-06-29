@@ -1,127 +1,127 @@
 {
-  "id": "4062026",
-  "date": "22 de junho de 2026",
-  "slug": "2026-06-22",
-  "title": "Agentes de IA assumem o controle financeiro e redefinem a Controladoria",
-  "summary": "Agentes autônomos de IA, novas normas IFRS e ferramentas de automação dominam a semana para profissionais de finanças e dados.",
-  "hero_title": "Microsoft lança Copilot Finance com agentes autônomos para fechamento contábil",
-  "hero_content": "A Microsoft anunciou a expansão do Copilot Finance com capacidades de agentes autônomos capazes de executar reconciliações, gerar variações de despesas e preparar relatórios de fechamento sem intervenção humana direta. A solução se integra nativamente ao Dynamics 365 e ao Excel, reduzindo em até 60% o tempo de fechamento mensal segundo dados internos da empresa. Para equipes de Controladoria, o movimento sinaliza que a automação de ponta a ponta do ciclo contábil deixou de ser projeto futuro e passou a ser realidade operacional.",
-  "news": [
-    {
-      "cat": "IA",
-      "title": "Microsoft expande Copilot Finance com agentes autônomos para fechamento",
-      "desc": "Agentes executam reconciliações e relatórios no Dynamics 365 e Excel, reduzindo até 60% o tempo de fechamento mensal.",
-      "source_name": "Microsoft AI Blog",
-      "source_url": "https://blogs.microsoft.com/ai/"
-    },
-    {
-      "cat": "Controladoria",
-      "title": "IASB publica revisão do IFRS 18 sobre apresentação de demonstrações",
-      "desc": "Nova orientação do IASB esclarece classificação de receitas e despesas incomuns, afetando balanços a partir de 2027.",
-      "source_name": "IFRS Foundation",
-      "source_url": "https://www.ifrs.org/news-and-events/news/2026/06/"
-    },
-    {
-      "cat": "Automação",
-      "title": "n8n lança versão 2.0 com orquestração nativa de agentes de IA",
-      "desc": "Nova versão permite criar fluxos com múltiplos agentes LLM encadeados, sem código, direto na interface visual da plataforma.",
-      "source_name": "n8n Blog",
-      "source_url": "https://n8n.io/blog/"
-    },
-    {
-      "cat": "Dados",
-      "title": "Databricks anuncia Unity Catalog com linhagem de dados em tempo real",
-      "desc": "Recurso rastreia origem e transformação de cada dado em pipelines ao vivo, acelerando auditorias e conformidade regulatória.",
-      "source_name": "Databricks Blog",
-      "source_url": "https://www.databricks.com/blog"
-    },
-    {
-      "cat": "Finanças",
-      "title": "Banco Central amplia escopo do Open Finance para dados de investimentos",
-      "desc": "Resolução BCB prevê compartilhamento de carteiras de investimento a partir de setembro de 2026, exigindo adaptação das fintechs.",
-      "source_name": "Banco Central do Brasil",
-      "source_url": "https://www.bcb.gov.br/estabilidadefinanceira/openfinance"
-    },
-    {
-      "cat": "Tecnologia",
-      "title": "Anthropic lança Claude 4 com janela de contexto de 500 mil tokens",
-      "desc": "Novo modelo processa balanços completos, contratos e políticas contábeis em uma única consulta, ampliando uso em auditoria e FP&A.",
-      "source_name": "Anthropic News",
-      "source_url": "https://www.anthropic.com/news"
-    }
-  ],
-  "trends": [
-    {
-      "icon": "🤖",
-      "title": "Agentes Autônomos Financeiros",
-      "desc": "Sistemas de IA executam tarefas contábeis completas sem supervisão humana constante."
-    },
-    {
-      "icon": "📊",
-      "title": "FP&A Aumentado por IA",
-      "desc": "Ferramentas de planejamento financeiro incorporam LLMs para narrativas e cenários automáticos."
-    },
-    {
-      "icon": "🔗",
-      "title": "Linhagem de Dados em Tempo Real",
-      "desc": "Rastreabilidade ponta a ponta de dados financeiros vira requisito de conformidade e auditoria."
-    },
-    {
-      "icon": "📑",
-      "title": "IFRS 18 em Implementação",
-      "desc": "Empresas aceleram adaptação das demonstrações financeiras às novas regras de apresentação do IASB."
-    }
-  ],
-  "tools": [
-    {
-      "icon": "💼",
-      "name": "Accountfy",
-      "desc": "Consolidação contábil e FP&A com integração a ERPs e relatórios automatizados.",
-      "url": "https://accountfy.com"
-    },
-    {
-      "icon": "⚙️",
-      "name": "n8n",
-      "desc": "Automação de fluxos com agentes de IA encadeados e centenas de integrações nativas.",
-      "url": "https://n8n.io"
-    },
-    {
-      "icon": "🗄️",
-      "name": "Databricks",
-      "desc": "Plataforma de dados e IA com Unity Catalog para governança e linhagem em tempo real.",
-      "url": "https://www.databricks.com"
-    },
-    {
-      "icon": "🧠",
-      "name": "Claude (Anthropic)",
-      "desc": "LLM com contexto de 500 mil tokens ideal para análise de documentos financeiros extensos.",
-      "url": "https://claude.ai"
-    }
-  ],
-  "videos": [
-    {
-      "youtube_id": "W3I3kAg2J7w",
-      "title": "Agentes de IA no Financeiro: como funcionam na prática",
-      "channel": "Controladoria na Prática",
-      "desc": "Demonstração prática de agentes de IA executando tarefas de fechamento e conciliação contábil."
-    },
-    {
-      "youtube_id": "ysEN5RaKOlA",
-      "title": "IFRS 18: o que muda nas demonstrações financeiras",
-      "channel": "IFRS Brasil",
-      "desc": "Explicação objetiva das mudanças do IFRS 18 e impacto direto nos balanços das empresas."
-    },
-    {
-      "youtube_id": "qAF1NjEVHhY",
-      "title": "n8n 2.0: automação com múltiplos agentes de IA sem código",
-      "channel": "Automatize Já",
-      "desc": "Tutorial da nova versão do n8n com orquestração de agentes LLM encadeados em fluxos visuais."
-    }
-  ],
-  "insights": [
-    "Empresas que adotam agentes de IA no fechamento contábil relatam redução de até 60% no tempo do ciclo mensal, segundo dados da Microsoft.",
-    "O IFRS 18 entra em vigor obrigatoriamente em janeiro de 2027, exigindo redesenho das notas explicativas de milhares de empresas globais.",
-    "A expansão do Open Finance para investimentos pelo Banco Central afeta mais de 800 instituições financeiras ativas no Brasil em 2026.",
-    "Modelos LLM com janela de contexto acima de 200 mil tokens já permitem análise integral de relatórios anuais de grandes corporações em uma única consulta."
-  ]
+"id": "5062026",
+"date": "29 de Junho, 2026",
+"slug": "2026-06-29",
+"title": "IA na Gestão: O Foco em Eficiência Operacional e Governança",
+"summary": "O avanço da IA no backoffice financeiro exige governança, enquanto empresas ainda enfrentam desafios na transição entre ambição tecnológica e resultados práticos.",
+"hero_title": "Fosso entre ambição e execução em IA corporativa",
+"hero_content": "Estudo da KPMG revela que 88% das organizações investem em agentes de IA, mas a falta de estrutura e maturidade trava resultados. A transformação exige agora foco real em governança de dados e arquitetura para escalar a tecnologia de forma sustentável.",
+"news": [
+{
+"cat": "IA",
+"title": "KPMG: Fosso entre ambição e execução em IA corporativa",
+"desc": "Estudo indica que 88% das organizações investem em agentes de IA, mas faltam estruturas para garantir retorno e previsibilidade operacional.",
+"source_name": "KPMG",
+"source_url": "https://kpmg.com/pt/pt/noticias-media/comunicados-de-imprensa/2026/03/empresas-prometem-maturidade-tecnologica-2026.html"
+},
+{
+"cat": "Controladoria",
+"title": "Pesquisa Qive: Apenas 33% das empresas usam IA",
+"desc": "Levantamento aponta descompasso entre a estratégia de backoffice e a baixa maturidade em automação e investimento tecnológico.",
+"source_name": "Jornal do Bras",
+"source_url": "https://jornaldobras.com.br/noticia/109508/levantamento-da-qive-revela-que-somente-33-das-empresas-usam-ia-no-dia-a-dia"
+},
+{
+"cat": "Finanças",
+"title": "IA na contabilidade: automação e supervisão humana",
+"desc": "Automação de rotinas contábeis é realidade, mas interpretação normativa e validação seguem sob responsabilidade profissional humana.",
+"source_name": "Contadores.cnt.br",
+"source_url": "https://www.contadores.cnt.br/noticias/tecnicas/2026/06/22/inteligencia-artificial-na-contabilidade-automacao-cresce-mas-supervisao-humana-permanece-essencial.html"
+},
+{
+"cat": "Dados",
+"title": "IA no mercado financeiro: impacto na valuation",
+"desc": "Uso de machine learning reduz tempo de análise de IPO de 30 dias para menos de 24 horas, otimizando decisões de investimento.",
+"source_name": "Vektor Consultoria",
+"source_url": "https://vektorconsultoria.com/noticias/inteligencia-artificial-em-financas-como-ia-esta-revolucionando-investimentos-e-/"
+},
+{
+"cat": "Tecnologia",
+"title": "IA e Open Finance definem tendências de 2026",
+"desc": "Setor financeiro migra para serviços integrados, com foco em eficiência operacional e redução de custos com modelos menores de IA.",
+"source_name": "Finsiders",
+"source_url": "https://finsidersbrasil.com.br/reportagem-exclusiva-fintechs/ia-open-finance-e-baas-2026-e-o-futuro-das-fintechs/"
+},
+{
+"cat": "Automação",
+"title": "Eficiência operacional e a IA no setor financeiro",
+"desc": "Gartner aponta que 59% dos líderes financeiros já utilizam IA para automatizar fechamento e controle orçamentário.",
+"source_name": "iBlue Consulting",
+"source_url": "https://iblueconsulting.com.br/tendencias-tecnologicas-para-2026-no-setor-financeiro/"
+}
+],
+"trends": [
+{
+"icon": "🤖",
+"title": "Governança de IA",
+"desc": "Necessidade urgente de governança e explicabilidade em modelos para garantir conformidade e mitigar riscos legais."
+},
+{
+"icon": "📉",
+"title": "Redução de Dívida Técnica",
+"desc": "Priorização de infraestrutura escalável para sustentar a automação de processos sem gargalos operacionais."
+},
+{
+"icon": "💡",
+"title": "Análise Preditiva",
+"desc": "Dashboards estáticos cedem lugar a simulações de cenários e insights acionáveis via machine learning."
+},
+{
+"icon": "🛡️",
+"title": "Supervisão Humana Crítica",
+"desc": "Manutenção da validação profissional em decisões normativas, fiscais e estratégicas de alto impacto."
+}
+],
+"tools": [
+{
+"icon": "⚡",
+"name": "n8n",
+"desc": "Automação de fluxo de trabalho para integrar apps e criar agentes de IA de baixo código.",
+"url": "[link removed]"
+},
+{
+"icon": "📊",
+"name": "Power BI",
+"desc": "Plataforma de business intelligence para visualização avançada e análise de dados financeiros.",
+"url": "[link removed]"
+},
+{
+"icon": "🔗",
+"name": "Make",
+"desc": "Automação visual que conecta sistemas para otimizar rotinas de backoffice e tarefas repetitivas.",
+"url": "[link removed]"
+},
+{
+"icon": "☁️",
+"name": "Azure AI",
+"desc": "Suite de serviços de nuvem robustos para implementação de modelos de IA em escala corporativa.",
+"url": "[link removed]"
+}
+],
+"videos": [
+{
+"youtube_id": "u1gY_7W1JSI",
+"title": "Introdução ao n8n para automação",
+"channel": "n8n",
+"desc": "Guia prático sobre como automatizar fluxos de trabalho operacionais sem necessidade de código complexo."
+},
+{
+"youtube_id": "XW_r2_Lz9rY",
+"title": "O impacto da IA Generativa nas empresas",
+"channel": "IBM Technology",
+"desc": "Explicação técnica sobre como a IA generativa está redefinindo processos corporativos modernos."
+},
+{
+"youtube_id": "V0cTf0_v_1Y",
+"title": "Power BI aplicado a Finanças",
+"channel": "Avi Singh - PowerBIPro",
+"desc": "Dicas essenciais para profissionais financeiros construírem relatórios e dashboards automatizados."
+}
+],
+"insights": [
+"88% das organizações investem em agentes de IA, mas poucas possuem maturidade para extrair retorno financeiro consistente.",
+"Apenas 33% das empresas brasileiras aplicam Inteligência Artificial nas operações financeiras diárias do backoffice.",
+"Ferramentas de IA em valuation reduziram o tempo de análise de IPO de 30 dias para menos de 24 horas.",
+"Cerca de 59% dos líderes financeiros já adotam IA para otimizar processos como fechamento contábil e controle orçamentário."
+]
 }
